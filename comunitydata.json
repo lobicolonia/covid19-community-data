@@ -4,7 +4,7 @@
   "area" : 56.73,
   "population_male" : 44599,
   "population_female" : 44905,
-  "populationPerSquareKilometer" : 1578,
+  "population_density_km" : 1578,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "01002",
@@ -12,7 +12,7 @@
   "area" : 118.65,
   "population_male" : 120566,
   "population_female" : 126982,
-  "populationPerSquareKilometer" : 2086,
+  "population_density_km" : 2086,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "01003",
@@ -20,7 +20,7 @@
   "area" : 214.19,
   "population_male" : 104371,
   "population_female" : 112827,
-  "populationPerSquareKilometer" : 1014,
+  "population_density_km" : 1014,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "01004",
@@ -28,7 +28,7 @@
   "area" : 71.66,
   "population_male" : 39241,
   "population_female" : 40246,
-  "populationPerSquareKilometer" : 1109,
+  "population_density_km" : 1109,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "01051",
@@ -36,7 +36,7 @@
   "area" : 1428.1799999999996,
   "population_male" : 65720,
   "population_female" : 67490,
-  "populationPerSquareKilometer" : 11048,
+  "population_density_km" : 11048,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "01053",
@@ -44,7 +44,7 @@
   "area" : 1263.0699999999997,
   "population_male" : 96881,
   "population_female" : 100383,
-  "populationPerSquareKilometer" : 19353,
+  "population_density_km" : 19353,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "01054",
@@ -52,7 +52,7 @@
   "area" : 2083.53,
   "population_male" : 81099,
   "population_female" : 84408,
-  "populationPerSquareKilometer" : 11553,
+  "population_density_km" : 11553,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "01055",
@@ -60,7 +60,7 @@
   "area" : 1393.0,
   "population_male" : 96765,
   "population_female" : 103816,
-  "populationPerSquareKilometer" : 6177,
+  "population_density_km" : 6177,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "01056",
@@ -68,7 +68,7 @@
   "area" : 664.27,
   "population_male" : 154211,
   "population_female" : 160180,
-  "populationPerSquareKilometer" : 20330,
+  "population_density_km" : 20330,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "01057",
@@ -76,7 +76,7 @@
   "area" : 1083.5599999999997,
   "population_male" : 62532,
   "population_female" : 66115,
-  "populationPerSquareKilometer" : 12380,
+  "population_density_km" : 12380,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "01058",
@@ -84,7 +84,7 @@
   "area" : 2189.7799999999993,
   "population_male" : 134109,
   "population_female" : 138666,
-  "populationPerSquareKilometer" : 22205,
+  "population_density_km" : 22205,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "01059",
@@ -92,7 +92,7 @@
   "area" : 2071.330000000001,
   "population_male" : 99092,
   "population_female" : 100933,
-  "populationPerSquareKilometer" : 11546,
+  "population_density_km" : 11546,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "01060",
@@ -100,7 +100,7 @@
   "area" : 1344.4700000000003,
   "population_male" : 136517,
   "population_female" : 139515,
-  "populationPerSquareKilometer" : 15394,
+  "population_density_km" : 15394,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "01061",
@@ -108,7 +108,7 @@
   "area" : 1055.6999999999998,
   "population_male" : 64923,
   "population_female" : 66424,
-  "populationPerSquareKilometer" : 13134,
+  "population_density_km" : 13134,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "01062",
@@ -116,7 +116,7 @@
   "area" : 766.2199999999999,
   "population_male" : 118831,
   "population_female" : 124365,
-  "populationPerSquareKilometer" : 14119,
+  "population_density_km" : 14119,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "02000",
@@ -124,7 +124,7 @@
   "area" : 755.09,
   "population_male" : 902048,
   "population_female" : 939131,
-  "populationPerSquareKilometer" : 2438,
+  "population_density_km" : 2438,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "03101",
@@ -132,7 +132,7 @@
   "area" : 192.7,
   "population_male" : 122985,
   "population_female" : 125307,
-  "populationPerSquareKilometer" : 1288,
+  "population_density_km" : 1288,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "03102",
@@ -140,7 +140,7 @@
   "area" : 224.49,
   "population_male" : 52202,
   "population_female" : 52746,
-  "populationPerSquareKilometer" : 467,
+  "population_density_km" : 467,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "03103",
@@ -148,7 +148,7 @@
   "area" : 204.61,
   "population_male" : 61820,
   "population_female" : 62331,
-  "populationPerSquareKilometer" : 607,
+  "population_density_km" : 607,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "03151",
@@ -156,7 +156,7 @@
   "area" : 1567.4500000000003,
   "population_male" : 88035,
   "population_female" : 87885,
-  "populationPerSquareKilometer" : 5730,
+  "population_density_km" : 5730,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "03153",
@@ -164,7 +164,7 @@
   "area" : 966.7299999999999,
   "population_male" : 67834,
   "population_female" : 69180,
-  "populationPerSquareKilometer" : 1918,
+  "population_density_km" : 1918,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "03154",
@@ -172,7 +172,7 @@
   "area" : 676.1199999999998,
   "population_male" : 45241,
   "population_female" : 46066,
-  "populationPerSquareKilometer" : 2856,
+  "population_density_km" : 2856,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "03155",
@@ -180,7 +180,7 @@
   "area" : 1268.76,
   "population_male" : 65445,
   "population_female" : 67320,
-  "populationPerSquareKilometer" : 1304,
+  "population_density_km" : 1304,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "03157",
@@ -188,7 +188,7 @@
   "area" : 536.5,
   "population_male" : 66286,
   "population_female" : 67679,
-  "populationPerSquareKilometer" : 1749,
+  "population_density_km" : 1749,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "03158",
@@ -196,7 +196,7 @@
   "area" : 724.2799999999999,
   "population_male" : 59370,
   "population_female" : 60590,
-  "populationPerSquareKilometer" : 3731,
+  "population_density_km" : 3731,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "03159",
@@ -204,7 +204,7 @@
   "area" : 1755.3899999999999,
   "population_male" : 161187,
   "population_female" : 166887,
-  "populationPerSquareKilometer" : 6152,
+  "population_density_km" : 6152,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "03241",
@@ -212,7 +212,7 @@
   "area" : 2297.1299999999997,
   "population_male" : 567201,
   "population_female" : 590423,
-  "populationPerSquareKilometer" : 10733,
+  "population_density_km" : 10733,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "03251",
@@ -220,7 +220,7 @@
   "area" : 1990.99,
   "population_male" : 107853,
   "population_female" : 109033,
-  "populationPerSquareKilometer" : 4077,
+  "population_density_km" : 4077,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "03252",
@@ -228,7 +228,7 @@
   "area" : 797.53,
   "population_male" : 71840,
   "population_female" : 76719,
-  "populationPerSquareKilometer" : 1541,
+  "population_density_km" : 1541,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "03254",
@@ -236,7 +236,7 @@
   "area" : 1208.3500000000004,
   "population_male" : 134912,
   "population_female" : 141682,
-  "populationPerSquareKilometer" : 4349,
+  "population_density_km" : 4349,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "03255",
@@ -244,7 +244,7 @@
   "area" : 694.27,
   "population_male" : 35187,
   "population_female" : 35788,
-  "populationPerSquareKilometer" : 3391,
+  "population_density_km" : 3391,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "03256",
@@ -252,7 +252,7 @@
   "area" : 1400.82,
   "population_male" : 60400,
   "population_female" : 60986,
-  "populationPerSquareKilometer" : 3411,
+  "population_density_km" : 3411,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "03257",
@@ -260,7 +260,7 @@
   "area" : 675.6600000000001,
   "population_male" : 77174,
   "population_female" : 80607,
-  "populationPerSquareKilometer" : 9977,
+  "population_density_km" : 9977,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "03351",
@@ -268,7 +268,7 @@
   "area" : 1550.82,
   "population_male" : 88054,
   "population_female" : 90882,
-  "populationPerSquareKilometer" : 2669,
+  "population_density_km" : 2669,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "03352",
@@ -276,7 +276,7 @@
   "area" : 2058.96,
   "population_male" : 97044,
   "population_female" : 101169,
-  "populationPerSquareKilometer" : 2281,
+  "population_density_km" : 2281,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "03353",
@@ -284,7 +284,7 @@
   "area" : 1248.4500000000003,
   "population_male" : 124502,
   "population_female" : 128274,
-  "populationPerSquareKilometer" : 6673,
+  "population_density_km" : 6673,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "03354",
@@ -292,7 +292,7 @@
   "area" : 1227.19,
   "population_male" : 23839,
   "population_female" : 24585,
-  "populationPerSquareKilometer" : 1048,
+  "population_density_km" : 1048,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "03355",
@@ -300,7 +300,7 @@
   "area" : 1327.8099999999997,
   "population_male" : 89543,
   "population_female" : 93829,
-  "populationPerSquareKilometer" : 6629,
+  "population_density_km" : 6629,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "03356",
@@ -308,7 +308,7 @@
   "area" : 652.6700000000001,
   "population_male" : 55765,
   "population_female" : 57752,
-  "populationPerSquareKilometer" : 1789,
+  "population_density_km" : 1789,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "03357",
@@ -316,7 +316,7 @@
   "area" : 2074.7799999999993,
   "population_male" : 82132,
   "population_female" : 81323,
-  "populationPerSquareKilometer" : 3886,
+  "population_density_km" : 3886,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "03358",
@@ -324,7 +324,7 @@
   "area" : 1881.4599999999998,
   "population_male" : 69757,
   "population_female" : 69998,
-  "populationPerSquareKilometer" : 1772,
+  "population_density_km" : 1772,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "03359",
@@ -332,7 +332,7 @@
   "area" : 1267.4,
   "population_male" : 101043,
   "population_female" : 102059,
-  "populationPerSquareKilometer" : 5697,
+  "population_density_km" : 5697,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "03360",
@@ -340,7 +340,7 @@
   "area" : 1462.6000000000004,
   "population_male" : 45241,
   "population_female" : 47331,
-  "populationPerSquareKilometer" : 1518,
+  "population_density_km" : 1518,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "03361",
@@ -348,7 +348,7 @@
   "area" : 789.34,
   "population_male" : 67166,
   "population_female" : 69626,
-  "populationPerSquareKilometer" : 1956,
+  "population_density_km" : 1956,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "03401",
@@ -356,7 +356,7 @@
   "area" : 62.45,
   "population_male" : 38437,
   "population_female" : 39170,
-  "populationPerSquareKilometer" : 1243,
+  "population_density_km" : 1243,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "03402",
@@ -364,7 +364,7 @@
   "area" : 112.34,
   "population_male" : 25084,
   "population_female" : 25111,
-  "populationPerSquareKilometer" : 447,
+  "population_density_km" : 447,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "03403",
@@ -372,7 +372,7 @@
   "area" : 103.09,
   "population_male" : 80501,
   "population_female" : 87709,
-  "populationPerSquareKilometer" : 1632,
+  "population_density_km" : 1632,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "03404",
@@ -380,7 +380,7 @@
   "area" : 119.8,
   "population_male" : 79756,
   "population_female" : 84992,
-  "populationPerSquareKilometer" : 1375,
+  "population_density_km" : 1375,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "03405",
@@ -388,7 +388,7 @@
   "area" : 107.07,
   "population_male" : 37596,
   "population_female" : 38682,
-  "populationPerSquareKilometer" : 712,
+  "population_density_km" : 712,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "03451",
@@ -396,7 +396,7 @@
   "area" : 730.6400000000001,
   "population_male" : 60658,
   "population_female" : 63413,
-  "populationPerSquareKilometer" : 1029,
+  "population_density_km" : 1029,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "03452",
@@ -404,7 +404,7 @@
   "area" : 1287.3400000000001,
   "population_male" : 93555,
   "population_female" : 96293,
-  "populationPerSquareKilometer" : 4401,
+  "population_density_km" : 4401,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "03453",
@@ -412,7 +412,7 @@
   "area" : 1420.3499999999997,
   "population_male" : 85707,
   "population_female" : 83641,
-  "populationPerSquareKilometer" : 1692,
+  "population_density_km" : 1692,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "03454",
@@ -420,7 +420,7 @@
   "area" : 2883.64,
   "population_male" : 165784,
   "population_female" : 159873,
-  "populationPerSquareKilometer" : 5101,
+  "population_density_km" : 5101,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "03455",
@@ -428,7 +428,7 @@
   "area" : 609.54,
   "population_male" : 48064,
   "population_female" : 50396,
-  "populationPerSquareKilometer" : 1606,
+  "population_density_km" : 1606,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "03456",
@@ -436,7 +436,7 @@
   "area" : 981.8100000000002,
   "population_male" : 68305,
   "population_female" : 68206,
-  "populationPerSquareKilometer" : 2860,
+  "population_density_km" : 2860,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "03457",
@@ -444,7 +444,7 @@
   "area" : 1085.7,
   "population_male" : 84810,
   "population_female" : 84999,
-  "populationPerSquareKilometer" : 2986,
+  "population_density_km" : 2986,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "03458",
@@ -452,7 +452,7 @@
   "area" : 1064.83,
   "population_male" : 64574,
   "population_female" : 65570,
-  "populationPerSquareKilometer" : 1508,
+  "population_density_km" : 1508,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "03459",
@@ -460,7 +460,7 @@
   "area" : 2121.7999999999997,
   "population_male" : 177430,
   "population_female" : 179913,
-  "populationPerSquareKilometer" : 6839,
+  "population_density_km" : 6839,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "03460",
@@ -468,7 +468,7 @@
   "area" : 814.1999999999999,
   "population_male" : 71595,
   "population_female" : 70003,
-  "populationPerSquareKilometer" : 1712,
+  "population_density_km" : 1712,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "03461",
@@ -476,7 +476,7 @@
   "area" : 824.76,
   "population_male" : 44410,
   "population_female" : 44214,
-  "populationPerSquareKilometer" : 1256,
+  "population_density_km" : 1256,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "03462",
@@ -484,7 +484,7 @@
   "area" : 656.84,
   "population_male" : 27919,
   "population_female" : 28963,
-  "populationPerSquareKilometer" : 1828,
+  "population_density_km" : 1828,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "04011",
@@ -492,7 +492,7 @@
   "area" : 317.83,
   "population_male" : 281336,
   "population_female" : 288016,
-  "populationPerSquareKilometer" : 1791,
+  "population_density_km" : 1791,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "04012",
@@ -500,7 +500,7 @@
   "area" : 101.53,
   "population_male" : 56699,
   "population_female" : 56935,
-  "populationPerSquareKilometer" : 1119,
+  "population_density_km" : 1119,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "05111",
@@ -508,7 +508,7 @@
   "area" : 217.41,
   "population_male" : 299315,
   "population_female" : 319979,
-  "populationPerSquareKilometer" : 2849,
+  "population_density_km" : 2849,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "05112",
@@ -516,7 +516,7 @@
   "area" : 232.8,
   "population_male" : 246588,
   "population_female" : 252002,
-  "populationPerSquareKilometer" : 2142,
+  "population_density_km" : 2142,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "05113",
@@ -524,7 +524,7 @@
   "area" : 210.34,
   "population_male" : 283005,
   "population_female" : 300104,
-  "populationPerSquareKilometer" : 2772,
+  "population_density_km" : 2772,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "05114",
@@ -532,7 +532,7 @@
   "area" : 137.77,
   "population_male" : 110745,
   "population_female" : 116275,
-  "populationPerSquareKilometer" : 1648,
+  "population_density_km" : 1648,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "05116",
@@ -540,7 +540,7 @@
   "area" : 170.47,
   "population_male" : 128655,
   "population_female" : 132799,
-  "populationPerSquareKilometer" : 1534,
+  "population_density_km" : 1534,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "05117",
@@ -548,7 +548,7 @@
   "area" : 91.28,
   "population_male" : 82387,
   "population_female" : 88493,
-  "populationPerSquareKilometer" : 1872,
+  "population_density_km" : 1872,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "05119",
@@ -556,7 +556,7 @@
   "area" : 77.09,
   "population_male" : 103612,
   "population_female" : 107217,
-  "populationPerSquareKilometer" : 2735,
+  "population_density_km" : 2735,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "05120",
@@ -564,7 +564,7 @@
   "area" : 74.52,
   "population_male" : 54664,
   "population_female" : 56330,
-  "populationPerSquareKilometer" : 1489,
+  "population_density_km" : 1489,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "05122",
@@ -572,7 +572,7 @@
   "area" : 89.54,
   "population_male" : 77471,
   "population_female" : 81889,
-  "populationPerSquareKilometer" : 1780,
+  "population_density_km" : 1780,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "05124",
@@ -580,7 +580,7 @@
   "area" : 168.39,
   "population_male" : 173687,
   "population_female" : 180695,
-  "populationPerSquareKilometer" : 2105,
+  "population_density_km" : 2105,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "05154",
@@ -588,7 +588,7 @@
   "area" : 1232.9900000000002,
   "population_male" : 154628,
   "population_female" : 156346,
-  "populationPerSquareKilometer" : 3840,
+  "population_density_km" : 3840,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "05158",
@@ -596,7 +596,7 @@
   "area" : 407.21000000000004,
   "population_male" : 234705,
   "population_female" : 250979,
-  "populationPerSquareKilometer" : 12855,
+  "population_density_km" : 12855,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "05162",
@@ -604,7 +604,7 @@
   "area" : 576.28,
   "population_male" : 219214,
   "population_female" : 231793,
-  "populationPerSquareKilometer" : 6101,
+  "population_density_km" : 6101,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "05166",
@@ -612,7 +612,7 @@
   "area" : 563.27,
   "population_male" : 145913,
   "population_female" : 153022,
-  "populationPerSquareKilometer" : 4623,
+  "population_density_km" : 4623,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "05170",
@@ -620,7 +620,7 @@
   "area" : 1042.8100000000002,
   "population_male" : 224137,
   "population_female" : 235672,
-  "populationPerSquareKilometer" : 6818,
+  "population_density_km" : 6818,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "05314",
@@ -628,7 +628,7 @@
   "area" : 141.06,
   "population_male" : 156328,
   "population_female" : 170930,
-  "populationPerSquareKilometer" : 2320,
+  "population_density_km" : 2320,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "05315",
@@ -636,7 +636,7 @@
   "area" : 405.01,
   "population_male" : 529368,
   "population_female" : 556296,
-  "populationPerSquareKilometer" : 2681,
+  "population_density_km" : 2681,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "05316",
@@ -644,7 +644,7 @@
   "area" : 78.87,
   "population_male" : 79787,
   "population_female" : 84051,
-  "populationPerSquareKilometer" : 2077,
+  "population_density_km" : 2077,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "05334",
@@ -652,7 +652,7 @@
   "area" : 706.92,
   "population_male" : 280162,
   "population_female" : 275303,
-  "populationPerSquareKilometer" : 8314,
+  "population_density_km" : 8314,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "05358",
@@ -660,7 +660,7 @@
   "area" : 941.49,
   "population_male" : 130761,
   "population_female" : 132961,
-  "populationPerSquareKilometer" : 4088,
+  "population_density_km" : 4088,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "05362",
@@ -668,7 +668,7 @@
   "area" : 704.7,
   "population_male" : 230062,
   "population_female" : 240027,
-  "populationPerSquareKilometer" : 8121,
+  "population_density_km" : 8121,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "05366",
@@ -676,7 +676,7 @@
   "area" : 1248.72,
   "population_male" : 95124,
   "population_female" : 97716,
-  "populationPerSquareKilometer" : 1754,
+  "population_density_km" : 1754,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "05370",
@@ -684,7 +684,7 @@
   "area" : 627.92,
   "population_male" : 125849,
   "population_female" : 128473,
-  "populationPerSquareKilometer" : 4277,
+  "population_density_km" : 4277,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "05374",
@@ -692,7 +692,7 @@
   "area" : 918.8399999999999,
   "population_male" : 134069,
   "population_female" : 138402,
-  "populationPerSquareKilometer" : 4080,
+  "population_density_km" : 4080,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "05378",
@@ -700,7 +700,7 @@
   "area" : 437.32000000000005,
   "population_male" : 137572,
   "population_female" : 145883,
-  "populationPerSquareKilometer" : 5034,
+  "population_density_km" : 5034,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "05382",
@@ -708,7 +708,7 @@
   "area" : 1153.2100000000003,
   "population_male" : 294093,
   "population_female" : 305687,
-  "populationPerSquareKilometer" : 11897,
+  "population_density_km" : 11897,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "05512",
@@ -716,7 +716,7 @@
   "area" : 100.61,
   "population_male" : 57101,
   "population_female" : 60282,
-  "populationPerSquareKilometer" : 1167,
+  "population_density_km" : 1167,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "05513",
@@ -724,7 +724,7 @@
   "area" : 104.94,
   "population_male" : 129778,
   "population_female" : 130876,
-  "populationPerSquareKilometer" : 2484,
+  "population_density_km" : 2484,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "05515",
@@ -732,7 +732,7 @@
   "area" : 303.28,
   "population_male" : 150836,
   "population_female" : 163483,
-  "populationPerSquareKilometer" : 1036,
+  "population_density_km" : 1036,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "05554",
@@ -740,7 +740,7 @@
   "area" : 1420.9499999999998,
   "population_male" : 185195,
   "population_female" : 185481,
-  "populationPerSquareKilometer" : 4153,
+  "population_density_km" : 4153,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "05558",
@@ -748,7 +748,7 @@
   "area" : 1112.0399999999997,
   "population_male" : 108564,
   "population_female" : 111365,
-  "populationPerSquareKilometer" : 2143,
+  "population_density_km" : 2143,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "05562",
@@ -756,7 +756,7 @@
   "area" : 761.32,
   "population_male" : 300019,
   "population_female" : 315242,
-  "populationPerSquareKilometer" : 10460,
+  "population_density_km" : 10460,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "05566",
@@ -764,7 +764,7 @@
   "area" : 1795.7599999999998,
   "population_male" : 222633,
   "population_female" : 224981,
-  "populationPerSquareKilometer" : 5556,
+  "population_density_km" : 5556,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "05570",
@@ -772,7 +772,7 @@
   "area" : 1319.42,
   "population_male" : 137298,
   "population_female" : 140485,
-  "populationPerSquareKilometer" : 2660,
+  "population_density_km" : 2660,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "05711",
@@ -780,7 +780,7 @@
   "area" : 258.83,
   "population_male" : 161078,
   "population_female" : 172708,
-  "populationPerSquareKilometer" : 1290,
+  "population_density_km" : 1290,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "05754",
@@ -788,7 +788,7 @@
   "area" : 969.2099999999997,
   "population_male" : 181844,
   "population_female" : 182239,
-  "populationPerSquareKilometer" : 4554,
+  "population_density_km" : 4554,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "05758",
@@ -796,7 +796,7 @@
   "area" : 450.41,
   "population_male" : 122959,
   "population_female" : 127824,
-  "populationPerSquareKilometer" : 4945,
+  "population_density_km" : 4945,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "05762",
@@ -804,7 +804,7 @@
   "area" : 1201.42,
   "population_male" : 70059,
   "population_female" : 70608,
-  "populationPerSquareKilometer" : 1156,
+  "population_density_km" : 1156,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "05766",
@@ -812,7 +812,7 @@
   "area" : 1246.1899999999998,
   "population_male" : 170965,
   "population_female" : 177426,
-  "populationPerSquareKilometer" : 4443,
+  "population_density_km" : 4443,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "05770",
@@ -820,7 +820,7 @@
   "area" : 1152.42,
   "population_male" : 153305,
   "population_female" : 157405,
-  "populationPerSquareKilometer" : 3513,
+  "population_density_km" : 3513,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "05774",
@@ -828,7 +828,7 @@
   "area" : 1246.78,
   "population_male" : 153622,
   "population_female" : 153268,
-  "populationPerSquareKilometer" : 2363,
+  "population_density_km" : 2363,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "05911",
@@ -836,7 +836,7 @@
   "area" : 145.66,
   "population_male" : 177699,
   "population_female" : 186929,
-  "populationPerSquareKilometer" : 2503,
+  "population_density_km" : 2503,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "05913",
@@ -844,7 +844,7 @@
   "area" : 280.71,
   "population_male" : 288386,
   "population_female" : 298624,
-  "populationPerSquareKilometer" : 2091,
+  "population_density_km" : 2091,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "05914",
@@ -852,7 +852,7 @@
   "area" : 160.45,
   "population_male" : 92168,
   "population_female" : 96646,
-  "populationPerSquareKilometer" : 1177,
+  "population_density_km" : 1177,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "05915",
@@ -860,7 +860,7 @@
   "area" : 226.43,
   "population_male" : 88024,
   "population_female" : 91087,
-  "populationPerSquareKilometer" : 791,
+  "population_density_km" : 791,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "05916",
@@ -868,7 +868,7 @@
   "area" : 51.42,
   "population_male" : 76649,
   "population_female" : 79725,
-  "populationPerSquareKilometer" : 3041,
+  "population_density_km" : 3041,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "05954",
@@ -876,7 +876,7 @@
   "area" : 409.62,
   "population_male" : 157490,
   "population_female" : 166806,
-  "populationPerSquareKilometer" : 7726,
+  "population_density_km" : 7726,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "05958",
@@ -884,7 +884,7 @@
   "area" : 1960.1499999999999,
   "population_male" : 129947,
   "population_female" : 130528,
-  "populationPerSquareKilometer" : 1535,
+  "population_density_km" : 1535,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "05962",
@@ -892,7 +892,7 @@
   "area" : 1061.06,
   "population_male" : 202817,
   "population_female" : 209303,
-  "populationPerSquareKilometer" : 5461,
+  "population_density_km" : 5461,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "05966",
@@ -900,7 +900,7 @@
   "area" : 712.1400000000001,
   "population_male" : 67610,
   "population_female" : 67165,
-  "populationPerSquareKilometer" : 1414,
+  "population_density_km" : 1414,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "05970",
@@ -908,7 +908,7 @@
   "area" : 1132.89,
   "population_male" : 138358,
   "population_female" : 139852,
-  "populationPerSquareKilometer" : 3086,
+  "population_density_km" : 3086,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "05974",
@@ -916,7 +916,7 @@
   "area" : 1328.6299999999999,
   "population_male" : 150022,
   "population_female" : 151880,
-  "populationPerSquareKilometer" : 3570,
+  "population_density_km" : 3570,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "05978",
@@ -924,7 +924,7 @@
   "area" : 543.21,
   "population_male" : 192304,
   "population_female" : 202478,
-  "populationPerSquareKilometer" : 7508,
+  "population_density_km" : 7508,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "06411",
@@ -932,7 +932,7 @@
   "area" : 122.07,
   "population_male" : 81217,
   "population_female" : 77990,
-  "populationPerSquareKilometer" : 1304,
+  "population_density_km" : 1304,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "06412",
@@ -940,7 +940,7 @@
   "area" : 248.31,
   "population_male" : 371671,
   "population_female" : 381385,
-  "populationPerSquareKilometer" : 3033,
+  "population_density_km" : 3033,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "06413",
@@ -948,7 +948,7 @@
   "area" : 44.88,
   "population_male" : 63699,
   "population_female" : 65045,
-  "populationPerSquareKilometer" : 2869,
+  "population_density_km" : 2869,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "06414",
@@ -956,7 +956,7 @@
   "area" : 203.87,
   "population_male" : 132943,
   "population_female" : 145399,
-  "populationPerSquareKilometer" : 1365,
+  "population_density_km" : 1365,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "06431",
@@ -964,7 +964,7 @@
   "area" : 719.48,
   "population_male" : 133318,
   "population_female" : 136376,
-  "populationPerSquareKilometer" : 8466,
+  "population_density_km" : 8466,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "06432",
@@ -972,7 +972,7 @@
   "area" : 658.61,
   "population_male" : 147786,
   "population_female" : 149613,
-  "populationPerSquareKilometer" : 11998,
+  "population_density_km" : 11998,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "06433",
@@ -980,7 +980,7 @@
   "area" : 453.03000000000003,
   "population_male" : 137325,
   "population_female" : 137201,
-  "populationPerSquareKilometer" : 10235,
+  "population_density_km" : 10235,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "06434",
@@ -988,7 +988,7 @@
   "area" : 481.84,
   "population_male" : 114878,
   "population_female" : 121686,
-  "populationPerSquareKilometer" : 8589,
+  "population_density_km" : 8589,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "06435",
@@ -996,7 +996,7 @@
   "area" : 1397.3299999999995,
   "population_male" : 206555,
   "population_female" : 212395,
-  "populationPerSquareKilometer" : 12093,
+  "population_density_km" : 12093,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "06436",
@@ -1004,7 +1004,7 @@
   "area" : 222.51999999999995,
   "population_male" : 116332,
   "population_female" : 121403,
-  "populationPerSquareKilometer" : 15955,
+  "population_density_km" : 15955,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "06437",
@@ -1012,7 +1012,7 @@
   "area" : 623.99,
   "population_male" : 47875,
   "population_female" : 48923,
-  "populationPerSquareKilometer" : 2222,
+  "population_density_km" : 2222,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "06438",
@@ -1020,7 +1020,7 @@
   "area" : 356.23,
   "population_male" : 174417,
   "population_female" : 179675,
-  "populationPerSquareKilometer" : 13953,
+  "population_density_km" : 13953,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "06439",
@@ -1028,7 +1028,7 @@
   "area" : 811.4199999999998,
   "population_male" : 91962,
   "population_female" : 95195,
-  "populationPerSquareKilometer" : 4604,
+  "population_density_km" : 4604,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "06440",
@@ -1036,7 +1036,7 @@
   "area" : 1100.6899999999998,
   "population_male" : 151276,
   "population_female" : 155184,
-  "populationPerSquareKilometer" : 8138,
+  "population_density_km" : 8138,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "06531",
@@ -1044,7 +1044,7 @@
   "area" : 854.56,
   "population_male" : 132135,
   "population_female" : 136741,
-  "populationPerSquareKilometer" : 6269,
+  "population_density_km" : 6269,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "06532",
@@ -1052,7 +1052,7 @@
   "area" : 1066.3000000000002,
   "population_male" : 125090,
   "population_female" : 128687,
-  "populationPerSquareKilometer" : 5224,
+  "population_density_km" : 5224,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "06533",
@@ -1060,7 +1060,7 @@
   "area" : 738.4299999999998,
   "population_male" : 85571,
   "population_female" : 86512,
-  "populationPerSquareKilometer" : 4568,
+  "population_density_km" : 4568,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "06534",
@@ -1068,7 +1068,7 @@
   "area" : 1262.37,
   "population_male" : 121414,
   "population_female" : 125234,
-  "populationPerSquareKilometer" : 3817,
+  "population_density_km" : 3817,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "06535",
@@ -1076,7 +1076,7 @@
   "area" : 1458.8999999999996,
   "population_male" : 52992,
   "population_female" : 52886,
-  "populationPerSquareKilometer" : 1280,
+  "population_density_km" : 1280,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "06611",
@@ -1084,7 +1084,7 @@
   "area" : 106.8,
   "population_male" : 99007,
   "population_female" : 102578,
-  "populationPerSquareKilometer" : 1888,
+  "population_density_km" : 1888,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "06631",
@@ -1092,7 +1092,7 @@
   "area" : 1380.4199999999998,
   "population_male" : 110592,
   "population_female" : 111992,
-  "populationPerSquareKilometer" : 3761,
+  "population_density_km" : 3761,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "06632",
@@ -1100,7 +1100,7 @@
   "area" : 1097.7499999999998,
   "population_male" : 60523,
   "population_female" : 60306,
-  "populationPerSquareKilometer" : 2148,
+  "population_density_km" : 2148,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "06633",
@@ -1108,7 +1108,7 @@
   "area" : 1293.3600000000001,
   "population_male" : 116122,
   "population_female" : 120511,
-  "populationPerSquareKilometer" : 8846,
+  "population_density_km" : 8846,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "06634",
@@ -1116,7 +1116,7 @@
   "area" : 1539.0,
   "population_male" : 90181,
   "population_female" : 90041,
-  "populationPerSquareKilometer" : 3271,
+  "population_density_km" : 3271,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "06635",
@@ -1124,7 +1124,7 @@
   "area" : 1848.6999999999996,
   "population_male" : 78198,
   "population_female" : 78755,
-  "populationPerSquareKilometer" : 1784,
+  "population_density_km" : 1784,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "06636",
@@ -1132,7 +1132,7 @@
   "area" : 1031.04,
   "population_male" : 49965,
   "population_female" : 51052,
-  "populationPerSquareKilometer" : 1642,
+  "population_density_km" : 1642,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "07111",
@@ -1140,7 +1140,7 @@
   "area" : 105.25,
   "population_male" : 55628,
   "population_female" : 58396,
-  "populationPerSquareKilometer" : 1083,
+  "population_density_km" : 1083,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "07131",
@@ -1148,7 +1148,7 @@
   "area" : 787.0400000000001,
   "population_male" : 63755,
   "population_female" : 65972,
-  "populationPerSquareKilometer" : 7953,
+  "population_density_km" : 7953,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "07132",
@@ -1156,7 +1156,7 @@
   "area" : 642.37,
   "population_male" : 63859,
   "population_female" : 64846,
-  "populationPerSquareKilometer" : 23502,
+  "population_density_km" : 23502,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "07133",
@@ -1164,7 +1164,7 @@
   "area" : 863.89,
   "population_male" : 77185,
   "population_female" : 80895,
-  "populationPerSquareKilometer" : 18992,
+  "population_density_km" : 18992,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "07134",
@@ -1172,7 +1172,7 @@
   "area" : 776.82,
   "population_male" : 40021,
   "population_female" : 40699,
-  "populationPerSquareKilometer" : 7529,
+  "population_density_km" : 7529,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "07135",
@@ -1180,7 +1180,7 @@
   "area" : 692.4699999999999,
   "population_male" : 30841,
   "population_female" : 30746,
-  "populationPerSquareKilometer" : 8196,
+  "population_density_km" : 8196,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "07137",
@@ -1188,7 +1188,7 @@
   "area" : 817.6899999999999,
   "population_male" : 105746,
   "population_female" : 108513,
-  "populationPerSquareKilometer" : 21542,
+  "population_density_km" : 21542,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "07138",
@@ -1196,7 +1196,7 @@
   "area" : 627.0399999999998,
   "population_male" : 89488,
   "population_female" : 92453,
-  "populationPerSquareKilometer" : 14717,
+  "population_density_km" : 14717,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "07140",
@@ -1204,7 +1204,7 @@
   "area" : 991.0699999999998,
   "population_male" : 51206,
   "population_female" : 51731,
-  "populationPerSquareKilometer" : 12188,
+  "population_density_km" : 12188,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "07141",
@@ -1212,7 +1212,7 @@
   "area" : 782.1899999999999,
   "population_male" : 60525,
   "population_female" : 61783,
-  "populationPerSquareKilometer" : 17356,
+  "population_density_km" : 17356,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "07143",
@@ -1220,7 +1220,7 @@
   "area" : 989.0599999999996,
   "population_male" : 100218,
   "population_female" : 101379,
-  "populationPerSquareKilometer" : 36318,
+  "population_density_km" : 36318,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "07211",
@@ -1228,7 +1228,7 @@
   "area" : 117.06,
   "population_male" : 54444,
   "population_female" : 56192,
-  "populationPerSquareKilometer" : 945,
+  "population_density_km" : 945,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "07231",
@@ -1236,7 +1236,7 @@
   "area" : 1167.91,
   "population_male" : 56124,
   "population_female" : 56138,
-  "populationPerSquareKilometer" : 8713,
+  "population_density_km" : 8713,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "07232",
@@ -1244,7 +1244,7 @@
   "area" : 1626.9399999999996,
   "population_male" : 49576,
   "population_female" : 48985,
-  "populationPerSquareKilometer" : 12212,
+  "population_density_km" : 12212,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "07233",
@@ -1252,7 +1252,7 @@
   "area" : 911.65,
   "population_male" : 30427,
   "population_female" : 30176,
-  "populationPerSquareKilometer" : 6086,
+  "population_density_km" : 6086,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "07235",
@@ -1260,7 +1260,7 @@
   "area" : 1102.22,
   "population_male" : 73673,
   "population_female" : 75272,
-  "populationPerSquareKilometer" : 14481,
+  "population_density_km" : 14481,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "07311",
@@ -1268,7 +1268,7 @@
   "area" : 43.88,
   "population_male" : 23489,
   "population_female" : 25072,
-  "populationPerSquareKilometer" : 1107,
+  "population_density_km" : 1107,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "07312",
@@ -1276,7 +1276,7 @@
   "area" : 139.7,
   "population_male" : 50353,
   "population_female" : 49492,
-  "populationPerSquareKilometer" : 715,
+  "population_density_km" : 715,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "07313",
@@ -1284,7 +1284,7 @@
   "area" : 82.94,
   "population_male" : 22078,
   "population_female" : 24599,
-  "populationPerSquareKilometer" : 563,
+  "population_density_km" : 563,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "07314",
@@ -1292,7 +1292,7 @@
   "area" : 77.43,
   "population_male" : 85820,
   "population_female" : 85241,
-  "populationPerSquareKilometer" : 2209,
+  "population_density_km" : 2209,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "07315",
@@ -1300,7 +1300,7 @@
   "area" : 97.73,
   "population_male" : 105599,
   "population_female" : 111519,
-  "populationPerSquareKilometer" : 2222,
+  "population_density_km" : 2222,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "07316",
@@ -1308,7 +1308,7 @@
   "area" : 117.09,
   "population_male" : 25955,
   "population_female" : 27193,
-  "populationPerSquareKilometer" : 454,
+  "population_density_km" : 454,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "07317",
@@ -1316,7 +1316,7 @@
   "area" : 61.36,
   "population_male" : 19780,
   "population_female" : 20623,
-  "populationPerSquareKilometer" : 658,
+  "population_density_km" : 658,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "07318",
@@ -1324,7 +1324,7 @@
   "area" : 42.71,
   "population_male" : 24363,
   "population_female" : 26015,
-  "populationPerSquareKilometer" : 1180,
+  "population_density_km" : 1180,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "07319",
@@ -1332,7 +1332,7 @@
   "area" : 108.73,
   "population_male" : 41080,
   "population_female" : 42250,
-  "populationPerSquareKilometer" : 766,
+  "population_density_km" : 766,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "07320",
@@ -1340,7 +1340,7 @@
   "area" : 70.64,
   "population_male" : 16954,
   "population_female" : 17255,
-  "populationPerSquareKilometer" : 484,
+  "population_density_km" : 484,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "07331",
@@ -1348,7 +1348,7 @@
   "area" : 588.0800000000002,
   "population_male" : 64389,
   "population_female" : 64855,
-  "populationPerSquareKilometer" : 12541,
+  "population_density_km" : 12541,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "07332",
@@ -1356,7 +1356,7 @@
   "area" : 594.6100000000002,
   "population_male" : 64838,
   "population_female" : 67822,
-  "populationPerSquareKilometer" : 11887,
+  "population_density_km" : 11887,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "07333",
@@ -1364,7 +1364,7 @@
   "area" : 645.4200000000001,
   "population_male" : 37194,
   "population_female" : 37907,
-  "populationPerSquareKilometer" : 8133,
+  "population_density_km" : 8133,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "07334",
@@ -1372,7 +1372,7 @@
   "area" : 463.32,
   "population_male" : 64379,
   "population_female" : 64696,
-  "populationPerSquareKilometer" : 9086,
+  "population_density_km" : 9086,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "07335",
@@ -1380,7 +1380,7 @@
   "area" : 639.9800000000002,
   "population_male" : 52135,
   "population_female" : 53922,
-  "populationPerSquareKilometer" : 8567,
+  "population_density_km" : 8567,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "07336",
@@ -1388,7 +1388,7 @@
   "area" : 573.58,
   "population_male" : 35052,
   "population_female" : 35474,
-  "populationPerSquareKilometer" : 11034,
+  "population_density_km" : 11034,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "07337",
@@ -1396,7 +1396,7 @@
   "area" : 639.95,
   "population_male" : 54441,
   "population_female" : 55915,
-  "populationPerSquareKilometer" : 12035,
+  "population_density_km" : 12035,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "07338",
@@ -1404,7 +1404,7 @@
   "area" : 305.01000000000005,
   "population_male" : 76030,
   "population_female" : 78171,
-  "populationPerSquareKilometer" : 13162,
+  "population_density_km" : 13162,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "07339",
@@ -1412,7 +1412,7 @@
   "area" : 605.3699999999998,
   "population_male" : 104015,
   "population_female" : 106874,
-  "populationPerSquareKilometer" : 19849,
+  "population_density_km" : 19849,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "07340",
@@ -1420,7 +1420,7 @@
   "area" : 953.59,
   "population_male" : 46916,
   "population_female" : 48197,
-  "populationPerSquareKilometer" : 9691,
+  "population_density_km" : 9691,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "08111",
@@ -1428,7 +1428,7 @@
   "area" : 207.33,
   "population_male" : 317139,
   "population_female" : 317691,
-  "populationPerSquareKilometer" : 3062,
+  "population_density_km" : 3062,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "08115",
@@ -1436,7 +1436,7 @@
   "area" : 617.7800000000002,
   "population_male" : 194989,
   "population_female" : 196651,
-  "populationPerSquareKilometer" : 14824,
+  "population_density_km" : 14824,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "08116",
@@ -1444,7 +1444,7 @@
   "area" : 641.2799999999997,
   "population_male" : 266783,
   "population_female" : 267076,
-  "populationPerSquareKilometer" : 33085,
+  "population_density_km" : 33085,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "08117",
@@ -1452,7 +1452,7 @@
   "area" : 642.3199999999998,
   "population_male" : 128093,
   "population_female" : 129160,
-  "populationPerSquareKilometer" : 15609,
+  "population_density_km" : 15609,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "08118",
@@ -1460,7 +1460,7 @@
   "area" : 686.7599999999998,
   "population_male" : 269961,
   "population_female" : 274023,
-  "populationPerSquareKilometer" : 31898,
+  "population_density_km" : 31898,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "08119",
@@ -1468,7 +1468,7 @@
   "area" : 858.0900000000001,
   "population_male" : 210861,
   "population_female" : 215297,
-  "populationPerSquareKilometer" : 17037,
+  "population_density_km" : 17037,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "08121",
@@ -1476,7 +1476,7 @@
   "area" : 99.89,
   "population_male" : 63527,
   "population_female" : 62433,
-  "populationPerSquareKilometer" : 1261,
+  "population_density_km" : 1261,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "08125",
@@ -1484,7 +1484,7 @@
   "area" : 1099.9399999999998,
   "population_male" : 172382,
   "population_female" : 170686,
-  "populationPerSquareKilometer" : 16568,
+  "population_density_km" : 16568,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "08126",
@@ -1492,7 +1492,7 @@
   "area" : 776.76,
   "population_male" : 56550,
   "population_female" : 55460,
-  "populationPerSquareKilometer" : 2302,
+  "population_density_km" : 2302,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "08127",
@@ -1500,7 +1500,7 @@
   "area" : 1484.06,
   "population_male" : 98314,
   "population_female" : 97547,
-  "populationPerSquareKilometer" : 3611,
+  "population_density_km" : 3611,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "08128",
@@ -1508,7 +1508,7 @@
   "area" : 1304.1200000000001,
   "population_male" : 65923,
   "population_female" : 66398,
-  "populationPerSquareKilometer" : 1738,
+  "population_density_km" : 1738,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "08135",
@@ -1516,7 +1516,7 @@
   "area" : 627.1099999999999,
   "population_male" : 66092,
   "population_female" : 66380,
-  "populationPerSquareKilometer" : 2200,
+  "population_density_km" : 2200,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "08136",
@@ -1524,7 +1524,7 @@
   "area" : 1511.38,
   "population_male" : 156480,
   "population_female" : 157522,
-  "populationPerSquareKilometer" : 9068,
+  "population_density_km" : 9068,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "08211",
@@ -1532,7 +1532,7 @@
   "area" : 140.19,
   "population_male" : 26442,
   "population_female" : 28681,
-  "populationPerSquareKilometer" : 393,
+  "population_density_km" : 393,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "08212",
@@ -1540,7 +1540,7 @@
   "area" : 173.42,
   "population_male" : 160429,
   "population_female" : 152663,
-  "populationPerSquareKilometer" : 1805,
+  "population_density_km" : 1805,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "08215",
@@ -1548,7 +1548,7 @@
   "area" : 1085.2800000000002,
   "population_male" : 221339,
   "population_female" : 222893,
-  "populationPerSquareKilometer" : 14038,
+  "population_density_km" : 14038,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "08216",
@@ -1556,7 +1556,7 @@
   "area" : 738.4399999999998,
   "population_male" : 114797,
   "population_female" : 116221,
-  "populationPerSquareKilometer" : 8182,
+  "population_density_km" : 8182,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "08221",
@@ -1564,7 +1564,7 @@
   "area" : 108.83,
   "population_male" : 77112,
   "population_female" : 83243,
-  "populationPerSquareKilometer" : 1473,
+  "population_density_km" : 1473,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "08222",
@@ -1572,7 +1572,7 @@
   "area" : 144.97,
   "population_male" : 154273,
   "population_female" : 155097,
-  "populationPerSquareKilometer" : 2134,
+  "population_density_km" : 2134,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "08225",
@@ -1580,7 +1580,7 @@
   "area" : 1125.9499999999998,
   "population_male" : 72057,
   "population_female" : 71478,
-  "populationPerSquareKilometer" : 4122,
+  "population_density_km" : 4122,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "08226",
@@ -1588,7 +1588,7 @@
   "area" : 1061.5400000000002,
   "population_male" : 269317,
   "population_female" : 278308,
-  "populationPerSquareKilometer" : 34664,
+  "population_density_km" : 34664,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "08231",
@@ -1596,7 +1596,7 @@
   "area" : 97.99,
   "population_male" : 61699,
   "population_female" : 63843,
-  "populationPerSquareKilometer" : 1281,
+  "population_density_km" : 1281,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "08235",
@@ -1604,7 +1604,7 @@
   "area" : 797.3199999999999,
   "population_male" : 79514,
   "population_female" : 78883,
-  "populationPerSquareKilometer" : 5599,
+  "population_density_km" : 5599,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "08236",
@@ -1612,7 +1612,7 @@
   "area" : 573.62,
   "population_male" : 98744,
   "population_female" : 100161,
-  "populationPerSquareKilometer" : 10165,
+  "population_density_km" : 10165,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "08237",
@@ -1620,7 +1620,7 @@
   "area" : 870.3999999999999,
   "population_male" : 58898,
   "population_female" : 59037,
-  "populationPerSquareKilometer" : 2325,
+  "population_density_km" : 2325,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "08311",
@@ -1628,7 +1628,7 @@
   "area" : 153.04,
   "population_male" : 109829,
   "population_female" : 120412,
-  "populationPerSquareKilometer" : 1504,
+  "population_density_km" : 1504,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "08315",
@@ -1636,7 +1636,7 @@
   "area" : 1378.3299999999997,
   "population_male" : 129641,
   "population_female" : 133154,
-  "populationPerSquareKilometer" : 14532,
+  "population_density_km" : 14532,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "08316",
@@ -1644,7 +1644,7 @@
   "area" : 679.81,
   "population_male" : 81772,
   "population_female" : 83611,
-  "populationPerSquareKilometer" : 6770,
+  "population_density_km" : 6770,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "08317",
@@ -1652,7 +1652,7 @@
   "area" : 1860.2999999999997,
   "population_male" : 214221,
   "population_female" : 215258,
-  "populationPerSquareKilometer" : 11321,
+  "population_density_km" : 11321,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "08325",
@@ -1660,7 +1660,7 @@
   "area" : 769.4300000000002,
   "population_male" : 69767,
   "population_female" : 69688,
-  "populationPerSquareKilometer" : 3734,
+  "population_density_km" : 3734,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "08326",
@@ -1668,7 +1668,7 @@
   "area" : 1025.34,
   "population_male" : 105542,
   "population_female" : 106839,
-  "populationPerSquareKilometer" : 3684,
+  "population_density_km" : 3684,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "08327",
@@ -1676,7 +1676,7 @@
   "area" : 734.3599999999999,
   "population_male" : 70452,
   "population_female" : 69700,
-  "populationPerSquareKilometer" : 6309,
+  "population_density_km" : 6309,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "08335",
@@ -1684,7 +1684,7 @@
   "area" : 817.98,
   "population_male" : 139046,
   "population_female" : 146279,
-  "populationPerSquareKilometer" : 8101,
+  "population_density_km" : 8101,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "08336",
@@ -1692,7 +1692,7 @@
   "area" : 806.7199999999998,
   "population_male" : 111981,
   "population_female" : 116658,
-  "populationPerSquareKilometer" : 10351,
+  "population_density_km" : 10351,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "08337",
@@ -1700,7 +1700,7 @@
   "area" : 1131.1399999999999,
   "population_male" : 84587,
   "population_female" : 86032,
-  "populationPerSquareKilometer" : 5719,
+  "population_density_km" : 5719,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "08415",
@@ -1708,7 +1708,7 @@
   "area" : 1092.46,
   "population_male" : 142232,
   "population_female" : 144516,
-  "populationPerSquareKilometer" : 9341,
+  "population_density_km" : 9341,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "08416",
@@ -1716,7 +1716,7 @@
   "area" : 519.11,
   "population_male" : 110795,
   "population_female" : 116536,
-  "populationPerSquareKilometer" : 6038,
+  "population_density_km" : 6038,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "08417",
@@ -1724,7 +1724,7 @@
   "area" : 917.5599999999998,
   "population_male" : 93808,
   "population_female" : 95127,
-  "populationPerSquareKilometer" : 4458,
+  "population_density_km" : 4458,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "08421",
@@ -1732,7 +1732,7 @@
   "area" : 118.68,
   "population_male" : 62660,
   "population_female" : 63669,
-  "populationPerSquareKilometer" : 1064,
+  "population_density_km" : 1064,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "08425",
@@ -1740,7 +1740,7 @@
   "area" : 1358.5399999999995,
   "population_male" : 99041,
   "population_female" : 97006,
-  "populationPerSquareKilometer" : 7257,
+  "population_density_km" : 7257,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "08426",
@@ -1748,7 +1748,7 @@
   "area" : 1409.4900000000002,
   "population_male" : 100634,
   "population_female" : 99108,
-  "populationPerSquareKilometer" : 5684,
+  "population_density_km" : 5684,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "08435",
@@ -1756,7 +1756,7 @@
   "area" : 664.7899999999998,
   "population_male" : 106544,
   "population_female" : 109683,
-  "populationPerSquareKilometer" : 8320,
+  "population_density_km" : 8320,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "08436",
@@ -1764,7 +1764,7 @@
   "area" : 1632.0899999999997,
   "population_male" : 141777,
   "population_female" : 142508,
-  "populationPerSquareKilometer" : 7519,
+  "population_density_km" : 7519,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "08437",
@@ -1772,7 +1772,7 @@
   "area" : 1204.22,
   "population_male" : 65649,
   "population_female" : 65224,
-  "populationPerSquareKilometer" : 2642,
+  "population_density_km" : 2642,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09161",
@@ -1780,7 +1780,7 @@
   "area" : 133.35,
   "population_male" : 69252,
   "population_female" : 67729,
-  "populationPerSquareKilometer" : 1027,
+  "population_density_km" : 1027,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09162",
@@ -1788,7 +1788,7 @@
   "area" : 310.7,
   "population_male" : 717308,
   "population_female" : 754200,
-  "populationPerSquareKilometer" : 4736,
+  "population_density_km" : 4736,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09163",
@@ -1796,7 +1796,7 @@
   "area" : 37.22,
   "population_male" : 31321,
   "population_female" : 32003,
-  "populationPerSquareKilometer" : 1701,
+  "population_density_km" : 1701,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09171",
@@ -1804,7 +1804,7 @@
   "area" : 569.29,
   "population_male" : 54942,
   "population_female" : 56268,
-  "populationPerSquareKilometer" : 5276,
+  "population_density_km" : 5276,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09172",
@@ -1812,7 +1812,7 @@
   "area" : 839.86,
   "population_male" : 52007,
   "population_female" : 53715,
-  "populationPerSquareKilometer" : 3495,
+  "population_density_km" : 3495,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09173",
@@ -1820,7 +1820,7 @@
   "area" : 1110.6600000000005,
   "population_male" : 62731,
   "population_female" : 64496,
-  "populationPerSquareKilometer" : 5377,
+  "population_density_km" : 5377,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09174",
@@ -1828,7 +1828,7 @@
   "area" : 579.15,
   "population_male" : 77120,
   "population_female" : 76764,
-  "populationPerSquareKilometer" : 5290,
+  "population_density_km" : 5290,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09175",
@@ -1836,7 +1836,7 @@
   "area" : 549.4000000000001,
   "population_male" : 70972,
   "population_female" : 71170,
-  "populationPerSquareKilometer" : 7006,
+  "population_density_km" : 7006,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09176",
@@ -1844,7 +1844,7 @@
   "area" : 1213.8400000000006,
   "population_male" : 67325,
   "population_female" : 65016,
-  "populationPerSquareKilometer" : 4702,
+  "population_density_km" : 4702,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09177",
@@ -1852,7 +1852,7 @@
   "area" : 870.73,
   "population_male" : 69367,
   "population_female" : 68293,
-  "populationPerSquareKilometer" : 3926,
+  "population_density_km" : 3926,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09178",
@@ -1860,7 +1860,7 @@
   "area" : 799.8299999999999,
   "population_male" : 91393,
   "population_female" : 87723,
-  "populationPerSquareKilometer" : 4455,
+  "population_density_km" : 4455,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09179",
@@ -1868,7 +1868,7 @@
   "area" : 434.80999999999995,
   "population_male" : 107686,
   "population_female" : 111634,
-  "populationPerSquareKilometer" : 13935,
+  "population_density_km" : 13935,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09180",
@@ -1876,7 +1876,7 @@
   "area" : 1012.18,
   "population_male" : 42969,
   "population_female" : 45498,
-  "populationPerSquareKilometer" : 2075,
+  "population_density_km" : 2075,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09181",
@@ -1884,7 +1884,7 @@
   "area" : 804.3600000000002,
   "population_male" : 60077,
   "population_female" : 59994,
-  "populationPerSquareKilometer" : 5200,
+  "population_density_km" : 5200,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09182",
@@ -1892,7 +1892,7 @@
   "area" : 866.22,
   "population_male" : 48870,
   "population_female" : 50856,
-  "populationPerSquareKilometer" : 2537,
+  "population_density_km" : 2537,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09183",
@@ -1900,7 +1900,7 @@
   "area" : 805.3400000000003,
   "population_male" : 58360,
   "population_female" : 56890,
-  "populationPerSquareKilometer" : 4574,
+  "population_density_km" : 4574,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09184",
@@ -1908,7 +1908,7 @@
   "area" : 664.26,
   "population_male" : 173601,
   "population_female" : 175270,
-  "populationPerSquareKilometer" : 27678,
+  "population_density_km" : 27678,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09185",
@@ -1916,7 +1916,7 @@
   "area" : 739.72,
   "population_male" : 48679,
   "population_female" : 48001,
-  "populationPerSquareKilometer" : 2026,
+  "population_density_km" : 2026,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09186",
@@ -1924,7 +1924,7 @@
   "area" : 761.04,
   "population_male" : 64639,
   "population_female" : 62512,
-  "populationPerSquareKilometer" : 3381,
+  "population_density_km" : 3381,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09187",
@@ -1932,7 +1932,7 @@
   "area" : 1439.4499999999998,
   "population_male" : 129253,
   "population_female" : 131730,
-  "populationPerSquareKilometer" : 9088,
+  "population_density_km" : 9088,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09188",
@@ -1940,7 +1940,7 @@
   "area" : 487.72,
   "population_male" : 66020,
   "population_female" : 70072,
-  "populationPerSquareKilometer" : 4580,
+  "population_density_km" : 4580,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09189",
@@ -1948,7 +1948,7 @@
   "area" : 1533.7399999999998,
   "population_male" : 87564,
   "population_female" : 89525,
-  "populationPerSquareKilometer" : 4578,
+  "population_density_km" : 4578,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09190",
@@ -1956,7 +1956,7 @@
   "area" : 966.2799999999999,
   "population_male" : 67321,
   "population_female" : 68027,
-  "populationPerSquareKilometer" : 4785,
+  "population_density_km" : 4785,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09261",
@@ -1964,7 +1964,7 @@
   "area" : 65.83,
   "population_male" : 35403,
   "population_female" : 37001,
-  "populationPerSquareKilometer" : 1100,
+  "population_density_km" : 1100,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09262",
@@ -1972,7 +1972,7 @@
   "area" : 69.56,
   "population_male" : 25344,
   "population_female" : 27125,
-  "populationPerSquareKilometer" : 754,
+  "population_density_km" : 754,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09263",
@@ -1980,7 +1980,7 @@
   "area" : 67.59,
   "population_male" : 24117,
   "population_female" : 23677,
-  "populationPerSquareKilometer" : 707,
+  "population_density_km" : 707,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09271",
@@ -1988,7 +1988,7 @@
   "area" : 861.1499999999999,
   "population_male" : 59547,
   "population_female" : 59779,
-  "populationPerSquareKilometer" : 3238,
+  "population_density_km" : 3238,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09272",
@@ -1996,7 +1996,7 @@
   "area" : 983.8599999999997,
   "population_male" : 39103,
   "population_female" : 39252,
-  "populationPerSquareKilometer" : 2190,
+  "population_density_km" : 2190,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09273",
@@ -2004,7 +2004,7 @@
   "area" : 1065.12,
   "population_male" : 62137,
   "population_female" : 60121,
-  "populationPerSquareKilometer" : 2701,
+  "population_density_km" : 2701,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09274",
@@ -2012,7 +2012,7 @@
   "area" : 1347.56,
   "population_male" : 80519,
   "population_female" : 78179,
-  "populationPerSquareKilometer" : 4629,
+  "population_density_km" : 4629,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09275",
@@ -2020,7 +2020,7 @@
   "area" : 1530.0600000000004,
   "population_male" : 95471,
   "population_female" : 96572,
-  "populationPerSquareKilometer" : 4839,
+  "population_density_km" : 4839,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09276",
@@ -2028,7 +2028,7 @@
   "area" : 974.78,
   "population_male" : 38745,
   "population_female" : 38911,
-  "populationPerSquareKilometer" : 2248,
+  "population_density_km" : 2248,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09277",
@@ -2036,7 +2036,7 @@
   "area" : 1281.1900000000003,
   "population_male" : 60346,
   "population_female" : 60313,
-  "populationPerSquareKilometer" : 2993,
+  "population_density_km" : 2993,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09278",
@@ -2044,7 +2044,7 @@
   "area" : 1201.62,
   "population_male" : 50627,
   "population_female" : 50022,
-  "populationPerSquareKilometer" : 3451,
+  "population_density_km" : 3451,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09279",
@@ -2052,7 +2052,7 @@
   "area" : 877.58,
   "population_male" : 49450,
   "population_female" : 46767,
-  "populationPerSquareKilometer" : 1756,
+  "population_density_km" : 1756,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09361",
@@ -2060,7 +2060,7 @@
   "area" : 50.13,
   "population_male" : 20673,
   "population_female" : 21297,
-  "populationPerSquareKilometer" : 837,
+  "population_density_km" : 837,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09362",
@@ -2068,7 +2068,7 @@
   "area" : 80.86,
   "population_male" : 74225,
   "population_female" : 78385,
-  "populationPerSquareKilometer" : 1887,
+  "population_density_km" : 1887,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09363",
@@ -2076,7 +2076,7 @@
   "area" : 70.57,
   "population_male" : 20542,
   "population_female" : 21978,
-  "populationPerSquareKilometer" : 603,
+  "population_density_km" : 603,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09371",
@@ -2084,7 +2084,7 @@
   "area" : 1255.8300000000002,
   "population_male" : 51665,
   "population_female" : 51444,
-  "populationPerSquareKilometer" : 2517,
+  "population_density_km" : 2517,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09372",
@@ -2092,7 +2092,7 @@
   "area" : 1526.81,
   "population_male" : 64248,
   "population_female" : 63634,
-  "populationPerSquareKilometer" : 3331,
+  "population_density_km" : 3331,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09373",
@@ -2100,7 +2100,7 @@
   "area" : 1343.94,
   "population_male" : 67499,
   "population_female" : 66062,
-  "populationPerSquareKilometer" : 2220,
+  "population_density_km" : 2220,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09374",
@@ -2108,7 +2108,7 @@
   "area" : 1427.6800000000003,
   "population_male" : 46943,
   "population_female" : 47409,
-  "populationPerSquareKilometer" : 3959,
+  "population_density_km" : 3959,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09375",
@@ -2116,7 +2116,7 @@
   "area" : 1391.68,
   "population_male" : 97081,
   "population_female" : 96491,
-  "populationPerSquareKilometer" : 8020,
+  "population_density_km" : 8020,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09376",
@@ -2124,7 +2124,7 @@
   "area" : 1458.35,
   "population_male" : 73964,
   "population_female" : 73225,
-  "populationPerSquareKilometer" : 2912,
+  "population_density_km" : 2912,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09377",
@@ -2132,7 +2132,7 @@
   "area" : 1084.24,
   "population_male" : 36121,
   "population_female" : 36383,
-  "populationPerSquareKilometer" : 1892,
+  "population_density_km" : 1892,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09461",
@@ -2140,7 +2140,7 @@
   "area" : 54.62,
   "population_male" : 37464,
   "population_female" : 40128,
-  "populationPerSquareKilometer" : 1421,
+  "population_density_km" : 1421,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09462",
@@ -2148,7 +2148,7 @@
   "area" : 66.89,
   "population_male" : 36469,
   "population_female" : 38188,
-  "populationPerSquareKilometer" : 1116,
+  "population_density_km" : 1116,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09463",
@@ -2156,7 +2156,7 @@
   "area" : 48.29,
   "population_male" : 20162,
   "population_female" : 21087,
-  "populationPerSquareKilometer" : 854,
+  "population_density_km" : 854,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09464",
@@ -2164,7 +2164,7 @@
   "area" : 58.02,
   "population_male" : 22098,
   "population_female" : 23832,
-  "populationPerSquareKilometer" : 792,
+  "population_density_km" : 792,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09471",
@@ -2172,7 +2172,7 @@
   "area" : 1167.7799999999997,
   "population_male" : 73725,
   "population_female" : 73361,
-  "populationPerSquareKilometer" : 6894,
+  "population_density_km" : 6894,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09472",
@@ -2180,7 +2180,7 @@
   "area" : 1273.6399999999996,
   "population_male" : 51310,
   "population_female" : 52346,
-  "populationPerSquareKilometer" : 3801,
+  "population_density_km" : 3801,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09473",
@@ -2188,7 +2188,7 @@
   "area" : 590.4100000000001,
   "population_male" : 42912,
   "population_female" : 43994,
-  "populationPerSquareKilometer" : 4049,
+  "population_density_km" : 4049,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09474",
@@ -2196,7 +2196,7 @@
   "area" : 642.8,
   "population_male" : 57703,
   "population_female" : 58396,
-  "populationPerSquareKilometer" : 5825,
+  "population_density_km" : 5825,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09475",
@@ -2204,7 +2204,7 @@
   "area" : 892.54,
   "population_male" : 46646,
   "population_female" : 48665,
-  "populationPerSquareKilometer" : 3020,
+  "population_density_km" : 3020,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09476",
@@ -2212,7 +2212,7 @@
   "area" : 651.5099999999999,
   "population_male" : 33184,
   "population_female" : 33951,
-  "populationPerSquareKilometer" : 1828,
+  "population_density_km" : 1828,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09477",
@@ -2220,7 +2220,7 @@
   "area" : 658.32,
   "population_male" : 35345,
   "population_female" : 36500,
-  "populationPerSquareKilometer" : 2201,
+  "population_density_km" : 2201,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09478",
@@ -2228,7 +2228,7 @@
   "area" : 519.92,
   "population_male" : 33027,
   "population_female" : 33811,
-  "populationPerSquareKilometer" : 1934,
+  "population_density_km" : 1934,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09479",
@@ -2236,7 +2236,7 @@
   "area" : 606.3600000000002,
   "population_male" : 35718,
   "population_female" : 37460,
-  "populationPerSquareKilometer" : 2123,
+  "population_density_km" : 2123,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09561",
@@ -2244,7 +2244,7 @@
   "area" : 99.91,
   "population_male" : 20048,
   "population_female" : 21799,
-  "populationPerSquareKilometer" : 419,
+  "population_density_km" : 419,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09562",
@@ -2252,7 +2252,7 @@
   "area" : 76.96,
   "population_male" : 55864,
   "population_female" : 56098,
-  "populationPerSquareKilometer" : 1455,
+  "population_density_km" : 1455,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09563",
@@ -2260,7 +2260,7 @@
   "area" : 63.35,
   "population_male" : 62603,
   "population_female" : 65145,
-  "populationPerSquareKilometer" : 2017,
+  "population_density_km" : 2017,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09564",
@@ -2268,7 +2268,7 @@
   "area" : 186.45,
   "population_male" : 252807,
   "population_female" : 265558,
-  "populationPerSquareKilometer" : 2780,
+  "population_density_km" : 2780,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09565",
@@ -2276,7 +2276,7 @@
   "area" : 40.8,
   "population_male" : 19895,
   "population_female" : 20897,
-  "populationPerSquareKilometer" : 1000,
+  "population_density_km" : 1000,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09571",
@@ -2284,7 +2284,7 @@
   "area" : 1971.3100000000002,
   "population_male" : 92450,
   "population_female" : 91499,
-  "populationPerSquareKilometer" : 5566,
+  "population_density_km" : 5566,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09572",
@@ -2292,7 +2292,7 @@
   "area" : 564.5299999999999,
   "population_male" : 67763,
   "population_female" : 68508,
-  "populationPerSquareKilometer" : 11586,
+  "population_density_km" : 11586,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09573",
@@ -2300,7 +2300,7 @@
   "area" : 307.43,
   "population_male" : 57064,
   "population_female" : 60323,
-  "populationPerSquareKilometer" : 6527,
+  "population_density_km" : 6527,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09574",
@@ -2308,7 +2308,7 @@
   "area" : 799.51,
   "population_male" : 83946,
   "population_female" : 86419,
-  "populationPerSquareKilometer" : 10189,
+  "population_density_km" : 10189,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09575",
@@ -2316,7 +2316,7 @@
   "area" : 1267.44,
   "population_male" : 50331,
   "population_female" : 50033,
-  "populationPerSquareKilometer" : 2901,
+  "population_density_km" : 2901,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09576",
@@ -2324,7 +2324,7 @@
   "area" : 895.1699999999998,
   "population_male" : 63206,
   "population_female" : 63752,
-  "populationPerSquareKilometer" : 2660,
+  "population_density_km" : 2660,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09577",
@@ -2332,7 +2332,7 @@
   "area" : 970.7800000000002,
   "population_male" : 47093,
   "population_female" : 47300,
-  "populationPerSquareKilometer" : 2221,
+  "population_density_km" : 2221,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09661",
@@ -2340,7 +2340,7 @@
   "area" : 62.45,
   "population_male" : 34316,
   "population_female" : 36211,
-  "populationPerSquareKilometer" : 1129,
+  "population_density_km" : 1129,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09662",
@@ -2348,7 +2348,7 @@
   "area" : 35.7,
   "population_male" : 26553,
   "population_female" : 27479,
-  "populationPerSquareKilometer" : 1514,
+  "population_density_km" : 1514,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09663",
@@ -2356,7 +2356,7 @@
   "area" : 87.6,
   "population_male" : 61151,
   "population_female" : 66729,
-  "populationPerSquareKilometer" : 1460,
+  "population_density_km" : 1460,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09671",
@@ -2364,7 +2364,7 @@
   "area" : 698.8999999999999,
   "population_male" : 86570,
   "population_female" : 87638,
-  "populationPerSquareKilometer" : 13263,
+  "population_density_km" : 13263,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09672",
@@ -2372,7 +2372,7 @@
   "area" : 1136.91,
   "population_male" : 50865,
   "population_female" : 52353,
-  "populationPerSquareKilometer" : 2561,
+  "population_density_km" : 2561,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09673",
@@ -2380,7 +2380,7 @@
   "area" : 1021.6799999999998,
   "population_male" : 39677,
   "population_female" : 40013,
-  "populationPerSquareKilometer" : 3417,
+  "population_density_km" : 3417,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09674",
@@ -2388,7 +2388,7 @@
   "area" : 956.1899999999999,
   "population_male" : 42468,
   "population_female" : 42131,
-  "populationPerSquareKilometer" : 2459,
+  "population_density_km" : 2459,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09675",
@@ -2396,7 +2396,7 @@
   "area" : 684.1699999999998,
   "population_male" : 45791,
   "population_female" : 45118,
-  "populationPerSquareKilometer" : 4993,
+  "population_density_km" : 4993,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09676",
@@ -2404,7 +2404,7 @@
   "area" : 715.5499999999998,
   "population_male" : 64190,
   "population_female" : 64566,
-  "populationPerSquareKilometer" : 7014,
+  "population_density_km" : 7014,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09677",
@@ -2412,7 +2412,7 @@
   "area" : 1321.17,
   "population_male" : 62953,
   "population_female" : 63412,
-  "populationPerSquareKilometer" : 4552,
+  "population_density_km" : 4552,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09678",
@@ -2420,7 +2420,7 @@
   "area" : 841.4000000000002,
   "population_male" : 57768,
   "population_female" : 57338,
-  "populationPerSquareKilometer" : 5909,
+  "population_density_km" : 5909,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09679",
@@ -2428,7 +2428,7 @@
   "area" : 968.3199999999996,
   "population_male" : 80594,
   "population_female" : 81240,
-  "populationPerSquareKilometer" : 13283,
+  "population_density_km" : 13283,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09761",
@@ -2436,7 +2436,7 @@
   "area" : 146.85,
   "population_male" : 145158,
   "population_female" : 149977,
-  "populationPerSquareKilometer" : 2010,
+  "population_density_km" : 2010,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09762",
@@ -2444,7 +2444,7 @@
   "area" : 40.02,
   "population_male" : 21610,
   "population_female" : 22283,
-  "populationPerSquareKilometer" : 1097,
+  "population_density_km" : 1097,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09763",
@@ -2452,7 +2452,7 @@
   "area" : 63.28,
   "population_male" : 34141,
   "population_female" : 34766,
-  "populationPerSquareKilometer" : 1089,
+  "population_density_km" : 1089,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09764",
@@ -2460,7 +2460,7 @@
   "area" : 70.11,
   "population_male" : 21710,
   "population_female" : 22127,
-  "populationPerSquareKilometer" : 625,
+  "population_density_km" : 625,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09771",
@@ -2468,7 +2468,7 @@
   "area" : 780.2300000000002,
   "population_male" : 66651,
   "population_female" : 66945,
-  "populationPerSquareKilometer" : 3671,
+  "population_density_km" : 3671,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09772",
@@ -2476,7 +2476,7 @@
   "area" : 1070.6499999999999,
   "population_male" : 124807,
   "population_female" : 126727,
-  "populationPerSquareKilometer" : 12607,
+  "population_density_km" : 12607,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09773",
@@ -2484,7 +2484,7 @@
   "area" : 792.23,
   "population_male" : 48135,
   "population_female" : 47886,
-  "populationPerSquareKilometer" : 2907,
+  "population_density_km" : 2907,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09774",
@@ -2492,7 +2492,7 @@
   "area" : 762.4299999999998,
   "population_male" : 63576,
   "population_female" : 62171,
-  "populationPerSquareKilometer" : 4999,
+  "population_density_km" : 4999,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09775",
@@ -2500,7 +2500,7 @@
   "area" : 515.84,
   "population_male" : 86470,
   "population_female" : 87730,
-  "populationPerSquareKilometer" : 5739,
+  "population_density_km" : 5739,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09776",
@@ -2508,7 +2508,7 @@
   "area" : 323.38,
   "population_male" : 40285,
   "population_female" : 41384,
-  "populationPerSquareKilometer" : 6253,
+  "population_density_km" : 6253,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09777",
@@ -2516,7 +2516,7 @@
   "area" : 1394.44,
   "population_male" : 69968,
   "population_female" : 70348,
-  "populationPerSquareKilometer" : 4493,
+  "population_density_km" : 4493,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09778",
@@ -2524,7 +2524,7 @@
   "area" : 1229.55,
   "population_male" : 72608,
   "population_female" : 71433,
-  "populationPerSquareKilometer" : 7020,
+  "population_density_km" : 7020,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09779",
@@ -2532,7 +2532,7 @@
   "area" : 1274.57,
   "population_male" : 67821,
   "population_female" : 65675,
-  "populationPerSquareKilometer" : 4243,
+  "population_density_km" : 4243,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "09780",
@@ -2540,7 +2540,7 @@
   "area" : 1527.9599999999998,
   "population_male" : 76577,
   "population_female" : 78785,
-  "populationPerSquareKilometer" : 3768,
+  "population_density_km" : 3768,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "10041",
@@ -2548,7 +2548,7 @@
   "area" : 410.94999999999993,
   "population_male" : 162003,
   "population_female" : 167705,
-  "populationPerSquareKilometer" : 7394,
+  "population_density_km" : 7394,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "10042",
@@ -2556,7 +2556,7 @@
   "area" : 556.66,
   "population_male" : 51108,
   "population_female" : 52258,
-  "populationPerSquareKilometer" : 1325,
+  "population_density_km" : 1325,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "10043",
@@ -2564,7 +2564,7 @@
   "area" : 249.79999999999998,
   "population_male" : 64915,
   "population_female" : 67291,
-  "populationPerSquareKilometer" : 4365,
+  "population_density_km" : 4365,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "10044",
@@ -2572,7 +2572,7 @@
   "area" : 459.35,
   "population_male" : 95550,
   "population_female" : 99651,
-  "populationPerSquareKilometer" : 6774,
+  "population_density_km" : 6774,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "10045",
@@ -2580,7 +2580,7 @@
   "area" : 418.2799999999999,
   "population_male" : 69385,
   "population_female" : 73246,
-  "populationPerSquareKilometer" : 2589,
+  "population_density_km" : 2589,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "10046",
@@ -2588,7 +2588,7 @@
   "area" : 476.07,
   "population_male" : 43198,
   "population_female" : 44199,
-  "populationPerSquareKilometer" : 1605,
+  "population_density_km" : 1605,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "11000",
@@ -2596,7 +2596,7 @@
   "area" : 891.12,
   "population_male" : 1792801,
   "population_female" : 1852025,
-  "populationPerSquareKilometer" : 4090,
+  "population_density_km" : 4090,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "12051",
@@ -2604,7 +2604,7 @@
   "area" : 229.71,
   "population_male" : 35617,
   "population_female" : 36507,
-  "populationPerSquareKilometer" : 314,
+  "population_density_km" : 314,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "12052",
@@ -2612,7 +2612,7 @@
   "area" : 165.63,
   "population_male" : 49201,
   "population_female" : 51018,
-  "populationPerSquareKilometer" : 605,
+  "population_density_km" : 605,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "12053",
@@ -2620,7 +2620,7 @@
   "area" : 147.85,
   "population_male" : 28023,
   "population_female" : 29850,
-  "populationPerSquareKilometer" : 391,
+  "population_density_km" : 391,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "12054",
@@ -2628,7 +2628,7 @@
   "area" : 188.25,
   "population_male" : 86179,
   "population_female" : 91910,
-  "populationPerSquareKilometer" : 946,
+  "population_density_km" : 946,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "12060",
@@ -2636,7 +2636,7 @@
   "area" : 1479.6099999999994,
   "population_male" : 90615,
   "population_female" : 92145,
-  "populationPerSquareKilometer" : 2988,
+  "population_density_km" : 2988,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "12061",
@@ -2644,7 +2644,7 @@
   "area" : 2274.53,
   "population_male" : 83943,
   "population_female" : 85124,
-  "populationPerSquareKilometer" : 7047,
+  "population_density_km" : 7047,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "12062",
@@ -2652,7 +2652,7 @@
   "area" : 1899.1599999999999,
   "population_male" : 50832,
   "population_female" : 51806,
-  "populationPerSquareKilometer" : 1772,
+  "population_density_km" : 1772,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "12063",
@@ -2660,7 +2660,7 @@
   "area" : 1727.3100000000002,
   "population_male" : 80121,
   "population_female" : 81788,
-  "populationPerSquareKilometer" : 2634,
+  "population_density_km" : 2634,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "12064",
@@ -2668,7 +2668,7 @@
   "area" : 2158.65,
   "population_male" : 96483,
   "population_female" : 97845,
-  "populationPerSquareKilometer" : 5395,
+  "population_density_km" : 5395,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "12065",
@@ -2676,7 +2676,7 @@
   "area" : 1808.17,
   "population_male" : 104111,
   "population_female" : 107138,
-  "populationPerSquareKilometer" : 7038,
+  "population_density_km" : 7038,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "12066",
@@ -2684,7 +2684,7 @@
   "area" : 1223.4599999999998,
   "population_male" : 54307,
   "population_female" : 56169,
-  "populationPerSquareKilometer" : 2002,
+  "population_density_km" : 2002,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "12067",
@@ -2692,7 +2692,7 @@
   "area" : 2256.75,
   "population_male" : 87681,
   "population_female" : 90977,
-  "populationPerSquareKilometer" : 5207,
+  "population_density_km" : 5207,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "12068",
@@ -2700,7 +2700,7 @@
   "area" : 2526.5499999999997,
   "population_male" : 49331,
   "population_female" : 49747,
-  "populationPerSquareKilometer" : 744,
+  "population_density_km" : 744,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "12069",
@@ -2708,7 +2708,7 @@
   "area" : 2592.0600000000004,
   "population_male" : 106258,
   "population_female" : 108406,
-  "populationPerSquareKilometer" : 5897,
+  "population_density_km" : 5897,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "12070",
@@ -2716,7 +2716,7 @@
   "area" : 2138.5800000000004,
   "population_male" : 37977,
   "population_female" : 38531,
-  "populationPerSquareKilometer" : 1028,
+  "population_density_km" : 1028,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "12071",
@@ -2724,7 +2724,7 @@
   "area" : 1656.9800000000005,
   "population_male" : 56269,
   "population_female" : 58160,
-  "populationPerSquareKilometer" : 2313,
+  "population_density_km" : 2313,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "12072",
@@ -2732,7 +2732,7 @@
   "area" : 2104.22,
   "population_male" : 83842,
   "population_female" : 84454,
-  "populationPerSquareKilometer" : 2136,
+  "population_density_km" : 2136,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "12073",
@@ -2740,7 +2740,7 @@
   "area" : 3078.0099999999998,
   "population_male" : 58670,
   "population_female" : 60882,
-  "populationPerSquareKilometer" : 1114,
+  "population_density_km" : 1114,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "13003",
@@ -2748,7 +2748,7 @@
   "area" : 181.36,
   "population_male" : 102911,
   "population_female" : 105975,
-  "populationPerSquareKilometer" : 1152,
+  "population_density_km" : 1152,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "13004",
@@ -2756,7 +2756,7 @@
   "area" : 130.52,
   "population_male" : 46054,
   "population_female" : 49764,
-  "populationPerSquareKilometer" : 734,
+  "population_density_km" : 734,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "13071",
@@ -2764,7 +2764,7 @@
   "area" : 5495.609999999998,
   "population_male" : 127108,
   "population_female" : 132022,
-  "populationPerSquareKilometer" : 5094,
+  "population_density_km" : 5094,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "13072",
@@ -2772,7 +2772,7 @@
   "area" : 3431.24,
   "population_male" : 107111,
   "population_female" : 108002,
-  "populationPerSquareKilometer" : 8020,
+  "population_density_km" : 8020,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "13073",
@@ -2780,7 +2780,7 @@
   "area" : 3215.4100000000003,
   "population_male" : 110477,
   "population_female" : 114207,
-  "populationPerSquareKilometer" : 6960,
+  "population_density_km" : 6960,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "13074",
@@ -2788,7 +2788,7 @@
   "area" : 2127.05,
   "population_male" : 77899,
   "population_female" : 78830,
-  "populationPerSquareKilometer" : 5435,
+  "population_density_km" : 5435,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "13075",
@@ -2796,7 +2796,7 @@
   "area" : 3945.560000000001,
   "population_male" : 115881,
   "population_female" : 120816,
-  "populationPerSquareKilometer" : 8289,
+  "population_density_km" : 8289,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "13076",
@@ -2804,7 +2804,7 @@
   "area" : 4766.770000000002,
   "population_male" : 106198,
   "population_female" : 106420,
-  "populationPerSquareKilometer" : 5750,
+  "population_density_km" : 5750,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "14511",
@@ -2812,7 +2812,7 @@
   "area" : 221.06,
   "population_male" : 122248,
   "population_female" : 124987,
-  "populationPerSquareKilometer" : 1118,
+  "population_density_km" : 1118,
   "lastUpdate" : "2019-12-31"
 }, {
   "ags" : "14521",
@@ -2820,7 +2820,7 @@
   "area" : 1827.8999999999999,
   "population_male" : 165218,
   "population_female" : 172480,
-  "populationPerSquareKilometer" : 13517,
+  "population_density_km" : 13517,
   "lastUpdate" : "2019-12-31"
 }, {
   "ags" : "14522",
@@ -2828,7 +2828,7 @@
   "area" : 2116.84,
   "population_male" : 152310,
   "population_female" : 153875,
-  "populationPerSquareKilometer" : 8080,
+  "population_density_km" : 8080,
   "lastUpdate" : "2019-12-31"
 }, {
   "ags" : "14523",
@@ -2836,7 +2836,7 @@
   "area" : 1412.4599999999996,
   "population_male" : 111055,
   "population_female" : 116741,
-  "populationPerSquareKilometer" : 5830,
+  "population_density_km" : 5830,
   "lastUpdate" : "2019-12-31"
 }, {
   "ags" : "14524",
@@ -2844,7 +2844,7 @@
   "area" : 949.7599999999999,
   "population_male" : 154978,
   "population_female" : 162553,
-  "populationPerSquareKilometer" : 9565,
+  "population_density_km" : 9565,
   "lastUpdate" : "2019-12-31"
 }, {
   "ags" : "14612",
@@ -2852,7 +2852,7 @@
   "area" : 328.48,
   "population_male" : 276729,
   "population_female" : 277920,
-  "populationPerSquareKilometer" : 1689,
+  "population_density_km" : 1689,
   "lastUpdate" : "2019-12-31"
 }, {
   "ags" : "14625",
@@ -2860,7 +2860,7 @@
   "area" : 2395.6099999999988,
   "population_male" : 148502,
   "population_female" : 152378,
-  "populationPerSquareKilometer" : 7860,
+  "population_density_km" : 7860,
   "lastUpdate" : "2019-12-31"
 }, {
   "ags" : "14626",
@@ -2868,7 +2868,7 @@
   "area" : 2111.4300000000003,
   "population_male" : 124905,
   "population_female" : 129989,
-  "populationPerSquareKilometer" : 7067,
+  "population_density_km" : 7067,
   "lastUpdate" : "2019-12-31"
 }, {
   "ags" : "14627",
@@ -2876,7 +2876,7 @@
   "area" : 1454.5900000000001,
   "population_male" : 119304,
   "population_female" : 122861,
-  "populationPerSquareKilometer" : 6336,
+  "population_density_km" : 6336,
   "lastUpdate" : "2019-12-31"
 }, {
   "ags" : "14628",
@@ -2884,7 +2884,7 @@
   "area" : 1654.1899999999996,
   "population_male" : 121219,
   "population_female" : 124392,
-  "populationPerSquareKilometer" : 6805,
+  "population_density_km" : 6805,
   "lastUpdate" : "2019-12-31"
 }, {
   "ags" : "14713",
@@ -2892,7 +2892,7 @@
   "area" : 297.8,
   "population_male" : 288553,
   "population_female" : 299304,
-  "populationPerSquareKilometer" : 1974,
+  "population_density_km" : 1974,
   "lastUpdate" : "2019-12-31"
 }, {
   "ags" : "14729",
@@ -2900,7 +2900,7 @@
   "area" : 1651.2799999999995,
   "population_male" : 126380,
   "population_female" : 131383,
-  "populationPerSquareKilometer" : 5506,
+  "population_density_km" : 5506,
   "lastUpdate" : "2019-12-31"
 }, {
   "ags" : "14730",
@@ -2908,7 +2908,7 @@
   "area" : 2028.56,
   "population_male" : 98218,
   "population_female" : 99455,
-  "populationPerSquareKilometer" : 3239,
+  "population_density_km" : 3239,
   "lastUpdate" : "2019-12-31"
 }, {
   "ags" : "15001",
@@ -2916,7 +2916,7 @@
   "area" : 244.71,
   "population_male" : 39457,
   "population_female" : 41780,
-  "populationPerSquareKilometer" : 332,
+  "population_density_km" : 332,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "15002",
@@ -2924,7 +2924,7 @@
   "area" : 135.03,
   "population_male" : 115713,
   "population_female" : 123544,
-  "populationPerSquareKilometer" : 1772,
+  "population_density_km" : 1772,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "15003",
@@ -2932,7 +2932,7 @@
   "area" : 201.01,
   "population_male" : 117828,
   "population_female" : 120869,
-  "populationPerSquareKilometer" : 1187,
+  "population_density_km" : 1187,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "15081",
@@ -2940,7 +2940,7 @@
   "area" : 2293.35,
   "population_male" : 41748,
   "population_female" : 42017,
-  "populationPerSquareKilometer" : 399,
+  "population_density_km" : 399,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "15082",
@@ -2948,7 +2948,7 @@
   "area" : 1453.8100000000002,
   "population_male" : 78326,
   "population_female" : 81528,
-  "populationPerSquareKilometer" : 1516,
+  "population_density_km" : 1516,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "15083",
@@ -2956,7 +2956,7 @@
   "area" : 2366.92,
   "population_male" : 85660,
   "population_female" : 86074,
-  "populationPerSquareKilometer" : 2635,
+  "population_density_km" : 2635,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "15084",
@@ -2964,7 +2964,7 @@
   "area" : 1413.7499999999998,
   "population_male" : 89353,
   "population_female" : 90837,
-  "populationPerSquareKilometer" : 3049,
+  "population_density_km" : 3049,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "15085",
@@ -2972,7 +2972,7 @@
   "area" : 2104.7500000000005,
   "population_male" : 105101,
   "population_female" : 109345,
-  "populationPerSquareKilometer" : 1926,
+  "population_density_km" : 1926,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "15086",
@@ -2980,7 +2980,7 @@
   "area" : 1576.94,
   "population_male" : 44781,
   "population_female" : 45147,
-  "populationPerSquareKilometer" : 690,
+  "population_density_km" : 690,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "15087",
@@ -2988,7 +2988,7 @@
   "area" : 1448.9299999999996,
   "population_male" : 66992,
   "population_female" : 69257,
-  "populationPerSquareKilometer" : 3224,
+  "population_density_km" : 3224,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "15088",
@@ -2996,7 +2996,7 @@
   "area" : 1433.9199999999998,
   "population_male" : 91361,
   "population_female" : 93221,
-  "populationPerSquareKilometer" : 2746,
+  "population_density_km" : 2746,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "15089",
@@ -3004,7 +3004,7 @@
   "area" : 1427.3300000000006,
   "population_male" : 93148,
   "population_female" : 97412,
-  "populationPerSquareKilometer" : 2413,
+  "population_density_km" : 2413,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "15090",
@@ -3012,7 +3012,7 @@
   "area" : 2423.41,
   "population_male" : 55278,
   "population_female" : 56704,
-  "populationPerSquareKilometer" : 931,
+  "population_density_km" : 931,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "15091",
@@ -3020,7 +3020,7 @@
   "area" : 1930.4800000000002,
   "population_male" : 61933,
   "population_female" : 63907,
-  "populationPerSquareKilometer" : 600,
+  "population_density_km" : 600,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "16051",
@@ -3028,7 +3028,7 @@
   "area" : 269.91,
   "population_male" : 103920,
   "population_female" : 109779,
-  "populationPerSquareKilometer" : 792,
+  "population_density_km" : 792,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "16052",
@@ -3036,7 +3036,7 @@
   "area" : 152.18,
   "population_male" : 45517,
   "population_female" : 48635,
-  "populationPerSquareKilometer" : 619,
+  "population_density_km" : 619,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "16053",
@@ -3044,7 +3044,7 @@
   "area" : 114.77,
   "population_male" : 55665,
   "population_female" : 55742,
-  "populationPerSquareKilometer" : 971,
+  "population_density_km" : 971,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "16054",
@@ -3052,7 +3052,7 @@
   "area" : 141.62,
   "population_male" : 18021,
   "population_female" : 18934,
-  "populationPerSquareKilometer" : 261,
+  "population_density_km" : 261,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "16055",
@@ -3060,7 +3060,7 @@
   "area" : 84.48,
   "population_male" : 31655,
   "population_female" : 33435,
-  "populationPerSquareKilometer" : 770,
+  "population_density_km" : 770,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "16056",
@@ -3068,7 +3068,7 @@
   "area" : 104.17,
   "population_male" : 20874,
   "population_female" : 21496,
-  "populationPerSquareKilometer" : 407,
+  "population_density_km" : 407,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "16061",
@@ -3076,7 +3076,7 @@
   "area" : 943.08,
   "population_male" : 50364,
   "population_female" : 50016,
-  "populationPerSquareKilometer" : 5880,
+  "population_density_km" : 5880,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "16062",
@@ -3084,7 +3084,7 @@
   "area" : 713.8899999999999,
   "population_male" : 41477,
   "population_female" : 42345,
-  "populationPerSquareKilometer" : 1324,
+  "population_density_km" : 1324,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "16063",
@@ -3092,7 +3092,7 @@
   "area" : 1266.98,
   "population_male" : 59860,
   "population_female" : 59866,
-  "populationPerSquareKilometer" : 3338,
+  "population_density_km" : 3338,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "16064",
@@ -3100,7 +3100,7 @@
   "area" : 979.6900000000003,
   "population_male" : 51119,
   "population_female" : 51793,
-  "populationPerSquareKilometer" : 2011,
+  "population_density_km" : 2011,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "16065",
@@ -3108,7 +3108,7 @@
   "area" : 1037.89,
   "population_male" : 37274,
   "population_female" : 37735,
-  "populationPerSquareKilometer" : 1751,
+  "population_density_km" : 1751,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "16066",
@@ -3116,7 +3116,7 @@
   "area" : 1251.18,
   "population_male" : 62851,
   "population_female" : 62795,
-  "populationPerSquareKilometer" : 3131,
+  "population_density_km" : 3131,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "16067",
@@ -3124,7 +3124,7 @@
   "area" : 936.0900000000001,
   "population_male" : 67468,
   "population_female" : 67984,
-  "populationPerSquareKilometer" : 3456,
+  "population_density_km" : 3456,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "16068",
@@ -3132,7 +3132,7 @@
   "area" : 806.8700000000002,
   "population_male" : 34762,
   "population_female" : 34893,
-  "populationPerSquareKilometer" : 2863,
+  "population_density_km" : 2863,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "16069",
@@ -3140,7 +3140,7 @@
   "area" : 938.4100000000002,
   "population_male" : 31766,
   "population_female" : 31787,
-  "populationPerSquareKilometer" : 1764,
+  "population_density_km" : 1764,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "16070",
@@ -3148,7 +3148,7 @@
   "area" : 805.1200000000001,
   "population_male" : 53572,
   "population_female" : 53050,
-  "populationPerSquareKilometer" : 1455,
+  "population_density_km" : 1455,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "16071",
@@ -3156,7 +3156,7 @@
   "area" : 804.48,
   "population_male" : 40645,
   "population_female" : 41302,
-  "populationPerSquareKilometer" : 3373,
+  "population_density_km" : 3373,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "16072",
@@ -3164,7 +3164,7 @@
   "area" : 460.84000000000003,
   "population_male" : 28768,
   "population_female" : 29642,
-  "populationPerSquareKilometer" : 969,
+  "population_density_km" : 969,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "16073",
@@ -3172,7 +3172,7 @@
   "area" : 1008.7699999999996,
   "population_male" : 51293,
   "population_female" : 52849,
-  "populationPerSquareKilometer" : 2092,
+  "population_density_km" : 2092,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "16074",
@@ -3180,7 +3180,7 @@
   "area" : 815.26,
   "population_male" : 41360,
   "population_female" : 41691,
-  "populationPerSquareKilometer" : 8661,
+  "population_density_km" : 8661,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "16075",
@@ -3188,7 +3188,7 @@
   "area" : 1151.3200000000002,
   "population_male" : 40119,
   "population_female" : 40749,
-  "populationPerSquareKilometer" : 3515,
+  "population_density_km" : 3515,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "16076",
@@ -3196,7 +3196,7 @@
   "area" : 845.95,
   "population_male" : 48326,
   "population_female" : 49833,
-  "populationPerSquareKilometer" : 4256,
+  "population_density_km" : 4256,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "16077",
@@ -3204,7 +3204,7 @@
   "area" : 569.4,
   "population_male" : 44138,
   "population_female" : 45980,
-  "populationPerSquareKilometer" : 3772,
+  "population_density_km" : 3772,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "11012",
@@ -3212,7 +3212,7 @@
   "area" : 89.0,
   "population_male" : 130170,
   "population_female" : 134656,
-  "populationPerSquareKilometer" : 2977,
+  "population_density_km" : 2977,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "11011",
@@ -3220,7 +3220,7 @@
   "area" : 51.9,
   "population_male" : 144491,
   "population_female" : 146002,
-  "populationPerSquareKilometer" : 5592,
+  "population_density_km" : 5592,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "11010",
@@ -3228,7 +3228,7 @@
   "area" : 61.6,
   "population_male" : 133358,
   "population_female" : 135381,
-  "populationPerSquareKilometer" : 4363,
+  "population_density_km" : 4363,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "11009",
@@ -3236,7 +3236,7 @@
   "area" : 167.0,
   "population_male" : 132290,
   "population_female" : 137485,
-  "populationPerSquareKilometer" : 1614,
+  "population_density_km" : 1614,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "11008",
@@ -3244,7 +3244,7 @@
   "area" : 44.8,
   "population_male" : 164980,
   "population_female" : 165806,
-  "populationPerSquareKilometer" : 7388,
+  "population_density_km" : 7388,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "11007",
@@ -3252,7 +3252,7 @@
   "area" : 52.9,
   "population_male" : 172330,
   "population_female" : 179099,
-  "populationPerSquareKilometer" : 6642,
+  "population_density_km" : 6642,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "11006",
@@ -3260,7 +3260,7 @@
   "area" : 102.0,
   "population_male" : 145723,
   "population_female" : 162354,
-  "populationPerSquareKilometer" : 3016,
+  "population_density_km" : 3016,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "11005",
@@ -3268,7 +3268,7 @@
   "area" : 91.5,
   "population_male" : 118913,
   "population_female" : 124167,
-  "populationPerSquareKilometer" : 2657,
+  "population_density_km" : 2657,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "11004",
@@ -3276,7 +3276,7 @@
   "area" : 64.5,
   "population_male" : 165435,
   "population_female" : 175892,
-  "populationPerSquareKilometer" : 5296,
+  "population_density_km" : 5296,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "11003",
@@ -3284,7 +3284,7 @@
   "area" : 103.0,
   "population_male" : 199899,
   "population_female" : 207140,
-  "populationPerSquareKilometer" : 3963,
+  "population_density_km" : 3963,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "11002",
@@ -3292,7 +3292,7 @@
   "area" : 20.3,
   "population_male" : 148539,
   "population_female" : 140581,
-  "populationPerSquareKilometer" : 14276,
+  "population_density_km" : 14276,
   "lastUpdate" : "2018-12-31"
 }, {
   "ags" : "11001",
@@ -3300,6 +3300,6 @@
   "area" : 39.3,
   "population_male" : 199120,
   "population_female" : 184337,
-  "populationPerSquareKilometer" : 9752,
+  "population_density_km" : 9752,
   "lastUpdate" : "2018-12-31"
 } ]
