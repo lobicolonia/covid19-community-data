@@ -6,6 +6,7 @@ import javax.persistence.Entity;
 import javax.persistence.Id;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
+import com.fasterxml.jackson.annotation.JsonProperty;
 
 @Entity
 public class CommunityDataDto {
@@ -21,7 +22,7 @@ public class CommunityDataDto {
 	@JsonFormat(pattern = "yyyy-MM-dd")
 	private LocalDate lastUpdate;
 	
-	
+	@JsonProperty("ags")
 	public String getArs() {
 		return ars;
 	}
@@ -40,18 +41,24 @@ public class CommunityDataDto {
 	public void setArea(double area) {
 		this.area = area;
 	}
+	
+	@JsonProperty("population_male")
 	public int getMalePopulation() {
 		return malePopulation;
 	}
 	public void setMalePopulation(int malePopulation) {
 		this.malePopulation = malePopulation;
 	}
+	
+	@JsonProperty("population_female")
 	public int getFemalePopulation() {
 		return femalePopulation;
 	}
 	public void setFemalePopulation(int femalePopulation) {
 		this.femalePopulation = femalePopulation;
 	}
+	
+	@JsonProperty("population_density_km")
 	public int getPopulationPerSquareKilometer() {
 		return populationPerSquareKilometer;
 	}
