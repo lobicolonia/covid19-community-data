@@ -21,7 +21,9 @@ import com.fasterxml.jackson.databind.SerializationFeature;
 import com.fasterxml.jackson.datatype.jsr310.JavaTimeModule;
 
 import de.lobi.covid19communitydata.dto.CommunityDataDto;
+import de.lobi.covid19communitydata.dto.CountyDataDto;
 import de.lobi.covid19communitydata.repository.CommunityDataRepository;
+import de.lobi.covid19communitydata.repository.CountyDataRepository;
 
 
 
@@ -35,9 +37,13 @@ public class ParseService  {
 	@Autowired
 	CommunityDataRepository communityDataRepository;
 	
+	@Autowired
+	CountyDataRepository countyDataRepository;
+	
 	public void parse() throws Exception {
 		
 		List<CommunityDataDto> communityDataDtos = new ArrayList<>();
+		List<CountyDataDto> countyDataDtos = new ArrayList<>();
 		
 		ObjectMapper mapper = new ObjectMapper();
 		mapper.configure(SerializationFeature.INDENT_OUTPUT, true);
@@ -49,43 +55,48 @@ public class ParseService  {
 		
 		XSSFSheet xhSheet = xssfWorkbook.getSheetAt(1);
 				
-		CommunityDataDto communityDataDto = null;
-		
 		
 		for (int i = 0; i < xhSheet.getPhysicalNumberOfRows(); i++) {
 			
 			XSSFRow row = xhSheet.getRow(i);
 			if(row.getCell(0).getStringCellValue().contains("40")) {
-//				CommunityDataDto 
-				communityDataDto = new CommunityDataDto();
+				
+				CountyDataDto countyDataDto = new CountyDataDto();
+				countyDataDto.setArs(row.getCell(2).getStringCellValue().trim() +
+						row.getCell(3).getStringCellValue().trim() + 
+						row.getCell(4).getStringCellValue().trim());
+				countyDataDto.setName(row.getCell(7).getStringCellValue().trim());
+				countyDataDtos.add(countyDataDto);
+			}
+			
+			if(row.getCell(0).getStringCellValue().contains("60")) {
+				CommunityDataDto communityDataDto = new CommunityDataDto();
 				communityDataDto.setArs(
 						row.getCell(2).getStringCellValue().trim() +
 						row.getCell(3).getStringCellValue().trim() + 
-						row.getCell(4).getStringCellValue().trim() 
+						row.getCell(4).getStringCellValue().trim() +
+						row.getCell(5).getStringCellValue().trim() +
+						row.getCell(6).getStringCellValue().trim() 
 						
 						);
 				communityDataDto.setName(row.getCell(7).getStringCellValue().trim());
+				communityDataDto.setArea(row.getCell(8).getNumericCellValue());
+				communityDataDto.setMalePopulation((int)row.getCell(11).getNumericCellValue());
+				communityDataDto.setFemalePopulation((int)row.getCell(12).getNumericCellValue());
+				communityDataDto.setPopulationPerSquareKilometer((int)row.getCell(13).getNumericCellValue());
+				communityDataDto.setLastUpdate((row.getCell(9).getDateCellValue().toInstant()
+						      .atZone(ZoneId.systemDefault())
+						      .toLocalDate()));
+				communityDataDto.setLongitude(row.getCell(15).getStringCellValue());
+				communityDataDto.setLatitude(row.getCell(16).getStringCellValue());
+				
+				
 				communityDataDtos.add(communityDataDto);
-					
-					
-				}
-				if(row.getCell(0).getStringCellValue().contains("60") ) {
-					
-					communityDataDto.setArea(communityDataDto.getArea() + row.getCell(8).getNumericCellValue());
-					communityDataDto.setMalePopulation(communityDataDto.getMalePopulation() + (int)row.getCell(11).getNumericCellValue());
-					communityDataDto.setFemalePopulation(communityDataDto.getFemalePopulation() +  (int)row.getCell(12).getNumericCellValue());
-					communityDataDto.setPopulationPerSquareKilometer(communityDataDto.getPopulationPerSquareKilometer() +  (int)row.getCell(13).getNumericCellValue());
-					
-					if(communityDataDto.getLastUpdate() == null) {
-						communityDataDto.setLastUpdate((row.getCell(9).getDateCellValue().toInstant()
-							      .atZone(ZoneId.systemDefault())
-							      .toLocalDate()));
-				}
-					
 			
 			}	
 		}
 		
+		countyDataRepository.saveAll(countyDataDtos);
 		communityDataRepository.saveAll(communityDataDtos);
 	}
 

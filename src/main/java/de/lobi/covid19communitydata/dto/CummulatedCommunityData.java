@@ -2,29 +2,37 @@ package de.lobi.covid19communitydata.dto;
 
 import java.time.LocalDate;
 
-import javax.persistence.Entity;
-import javax.persistence.Id;
-
 import com.fasterxml.jackson.annotation.JsonFormat;
 import com.fasterxml.jackson.annotation.JsonProperty;
 
-@Entity
-public class CommunityDataDto {
-	
-	@Id
+public class CummulatedCommunityData {
+
 	private String ars;
 	private String name;
 	private double area;
-	private int malePopulation;
-	private int femalePopulation;
-	private int populationPerSquareKilometer;
-	private String longitude;
-	private String latitude;
-	
+	private long malePopulation;
+	private long femalePopulation;
+	private long populationPerSquareKilometer;
 	
 	@JsonFormat(pattern = "yyyy-MM-dd")
 	private LocalDate lastUpdate;
 	
+	public CummulatedCommunityData() {
+		
+	};
+	
+	
+	public CummulatedCommunityData(String ars, String name, double area, long malePopulation, long femalePopulation,
+			long populationPerSquareKilometer, LocalDate lastUpdate) {
+//		super();
+		this.ars = ars;
+		this.name = name;
+		this.area = area;
+		this.malePopulation = malePopulation;
+		this.femalePopulation = femalePopulation;
+		this.populationPerSquareKilometer = populationPerSquareKilometer;
+		this.lastUpdate = lastUpdate;
+	}
 	@JsonProperty("ags")
 	public String getArs() {
 		return ars;
@@ -46,26 +54,26 @@ public class CommunityDataDto {
 	}
 	
 	@JsonProperty("population_male")
-	public int getMalePopulation() {
+	public long getMalePopulation() {
 		return malePopulation;
 	}
-	public void setMalePopulation(int malePopulation) {
+	public void setMalePopulation(long malePopulation) {
 		this.malePopulation = malePopulation;
 	}
 	
 	@JsonProperty("population_female")
-	public int getFemalePopulation() {
+	public long getFemalePopulation() {
 		return femalePopulation;
 	}
-	public void setFemalePopulation(int femalePopulation) {
+	public void setFemalePopulation(long femalePopulation) {
 		this.femalePopulation = femalePopulation;
 	}
 	
 	@JsonProperty("population_density_km")
-	public int getPopulationPerSquareKilometer() {
+	public long getPopulationPerSquareKilometer() {
 		return populationPerSquareKilometer;
 	}
-	public void setPopulationPerSquareKilometer(int populationPerSquareKilometer) {
+	public void setPopulationPerSquareKilometer(long populationPerSquareKilometer) {
 		this.populationPerSquareKilometer = populationPerSquareKilometer;
 	}
 	
@@ -77,25 +85,8 @@ public class CommunityDataDto {
 		this.lastUpdate = lastUpdate;
 	}
 	
-	public String getLongitude() {
-		return longitude;
-	}
-	public void setLongitude(String longitude) {
-		this.longitude = longitude;
-	}
-	public String getLatitude() {
-		return latitude;
-	}
-	public void setLatitude(String latitude) {
-		this.latitude = latitude;
-	}
-	@Override
-	public String toString() {
-		return "CommunityDataDto [ars=" + ars + ", name=" + name + ", area=" + area + ", malePopulation="
-				+ malePopulation + ", femalePopulation=" + femalePopulation + ", populationPerSquareKilometer="
-				+ populationPerSquareKilometer + ", lastUpdate=" + lastUpdate + "]";
-	}
 	
-	
-	
+
 }
+
+
