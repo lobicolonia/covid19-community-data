@@ -87,8 +87,8 @@ public class ParseService  {
 				communityDataDto.setLastUpdate((row.getCell(9).getDateCellValue().toInstant()
 						      .atZone(ZoneId.systemDefault())
 						      .toLocalDate()));
-				communityDataDto.setLongitude(row.getCell(15).getStringCellValue());
-				communityDataDto.setLatitude(row.getCell(16).getStringCellValue());
+				communityDataDto.setLongitude(row.getCell(16).getStringCellValue());
+				communityDataDto.setLatitude(row.getCell(15).getStringCellValue());
 				
 				
 				communityDataDtos.add(communityDataDto);
