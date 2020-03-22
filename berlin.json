@@ -1,0 +1,97 @@
+[ {
+  "ags" : "11012",
+  "name" : "Berlin Reinickendorf",
+  "area" : 89.0,
+  "population_male" : 130170,
+  "population_female" : 134656,
+  "populationPerSquareKilometer" : 2977,
+  "lastUpdate" : "2018-12-31"
+}, {
+  "ags" : "11011",
+  "name" : "Berlin Lichtenberg",
+  "area" : 51.9,
+  "population_male" : 144491,
+  "population_female" : 146002,
+  "populationPerSquareKilometer" : 5592,
+  "lastUpdate" : "2018-12-31"
+}, {
+  "ags" : "11010",
+  "name" : "Berlin Marzahn-Hellersdorf",
+  "area" : 61.6,
+  "population_male" : 133358,
+  "population_female" : 135381,
+  "populationPerSquareKilometer" : 4363,
+  "lastUpdate" : "2018-12-31"
+}, {
+  "ags" : "11009",
+  "name" : "Berlin Treptow-Köpenick",
+  "area" : 167.0,
+  "population_male" : 132290,
+  "population_female" : 137485,
+  "populationPerSquareKilometer" : 1614,
+  "lastUpdate" : "2018-12-31"
+}, {
+  "ags" : "11008",
+  "name" : "Berlin Neukölln",
+  "area" : 44.8,
+  "population_male" : 164980,
+  "population_female" : 165806,
+  "populationPerSquareKilometer" : 7388,
+  "lastUpdate" : "2018-12-31"
+}, {
+  "ags" : "11007",
+  "name" : "Berlin Tempelhof-Schöneberg",
+  "area" : 52.9,
+  "population_male" : 172330,
+  "population_female" : 179099,
+  "populationPerSquareKilometer" : 6642,
+  "lastUpdate" : "2018-12-31"
+}, {
+  "ags" : "11006",
+  "name" : "Berlin Steglitz-Zehlendorf",
+  "area" : 102.0,
+  "population_male" : 145723,
+  "population_female" : 162354,
+  "populationPerSquareKilometer" : 3016,
+  "lastUpdate" : "2018-12-31"
+}, {
+  "ags" : "11005",
+  "name" : "Berlin Spandau",
+  "area" : 91.5,
+  "population_male" : 118913,
+  "population_female" : 124167,
+  "populationPerSquareKilometer" : 2657,
+  "lastUpdate" : "2018-12-31"
+}, {
+  "ags" : "11004",
+  "name" : "Berlin Charlottenburg-Wilmersdorf",
+  "area" : 64.5,
+  "population_male" : 165435,
+  "population_female" : 175892,
+  "populationPerSquareKilometer" : 5296,
+  "lastUpdate" : "2018-12-31"
+}, {
+  "ags" : "11003",
+  "name" : "Berlin Pankow",
+  "area" : 103.0,
+  "population_male" : 199899,
+  "population_female" : 207140,
+  "populationPerSquareKilometer" : 3963,
+  "lastUpdate" : "2018-12-31"
+}, {
+  "ags" : "11002",
+  "name" : "Berlin Friedrichshain-Kreuzberg",
+  "area" : 20.3,
+  "population_male" : 148539,
+  "population_female" : 140581,
+  "populationPerSquareKilometer" : 14276,
+  "lastUpdate" : "2018-12-31"
+}, {
+  "ags" : "11001",
+  "name" : "Berlin Mitte",
+  "area" : 39.3,
+  "population_male" : 199120,
+  "population_female" : 184337,
+  "populationPerSquareKilometer" : 9752,
+  "lastUpdate" : "2018-12-31"
+}]
